@@ -5,10 +5,10 @@
     "Pablo Soberón",
     "Shira Zerbib"
   ],
-  "year": 2024,
+  "year": 2026,
   "sort_order": 21,
-  "status": "accepted",
-  "reference": "Accepted to Discrete Comput. Geom.",
+  "status": "published",
+  "reference": "Discrete Comput. Geom. (76) pp. 1960-1970",
   "type": "research",
   "topics": [
     "tverberg"
@@ -36,5 +36,6 @@
     "https://www.psoberon.com/full-list",
     "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
   ],
-  "imported_on": "2026-10-03"
+  "imported_on": "2026-10-03",
+  "date": ""
 }

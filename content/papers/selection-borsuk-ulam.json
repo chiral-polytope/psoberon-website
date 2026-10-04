@@ -6,12 +6,12 @@
   ],
   "year": 2026,
   "sort_order": 6,
-  "status": "preprint",
+  "status": "submitted",
   "reference": "",
   "type": "research",
   "topics": [
-    "topological-combinatorics",
-    "tverberg"
+    "tverberg",
+    "topological-combinatorics"
   ],
   "student_authors": [],
   "featured": false,
@@ -36,5 +36,6 @@
     "https://www.psoberon.com/full-list",
     "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
   ],
-  "imported_on": "2026-10-03"
+  "imported_on": "2026-10-03",
+  "date": ""
 }
