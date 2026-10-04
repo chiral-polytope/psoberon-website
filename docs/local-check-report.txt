@@ -1,0 +1,5 @@
+
+> psoberon-site@1.1.0 check
+> node scripts/check.mjs
+
+Passed: content validation, all local HTML href/src targets, 342 output files, hosting file-size limit. This is a local check, not a check of external URLs or live deployment.

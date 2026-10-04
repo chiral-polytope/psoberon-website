@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+node_modules/
+.tmp/
+test-results/
+*.log
+# dist is a reproducible build. Keep it in the delivered ZIP; omit it from Git.
+dist/

@@ -1,0 +1,44 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import os from 'node:os';
+import path from 'node:path';
+import {execFileSync} from 'node:child_process';
+import {ROOT,loadData,validate,publicPaper,safeURL,slug,hasVideo} from '../src/data.mjs';
+import {esc,href,markdown,jsonForHTML,videoEmbed} from '../src/html.mjs';
+const original=loadData();
+const copy=()=>structuredClone(original);
+test('all live records satisfy the schema',()=>assert.equal(validate(original),true));
+test('student flags always name actual authors',()=>{for(const p of original.papers)for(const n of p.student_authors)assert.ok(p.authors.includes(n));});
+test('diacritics produce stable coauthor slugs',()=>assert.equal(slug('Imre Bárány'),'imre-barany'));
+test('unknown topics are rejected',()=>{const d=copy();d.allPapers[0].topics=['not-a-topic'];assert.throws(()=>validate(d),/unknown topic/);});
+test('invalid statuses are rejected',()=>{const d=copy();d.allPapers[0].status='famous';assert.throws(()=>validate(d),/status must/);});
+test('noninteger years are rejected',()=>{const d=copy();d.allPapers[0].year='2026';assert.throws(()=>validate(d),/year must/);});
+test('invalid dates are rejected',()=>{const d=copy();d.allPapers[0].date='2026-02-31';assert.throws(()=>validate(d),/date must/);});
+test('unknown student authors are rejected',()=>{const d=copy();d.allPapers[0].student_authors=['Not a coauthor'];assert.throws(()=>validate(d),/exact names/);});
+test('duplicate IDs are rejected',()=>{const d=copy();d.allPapers.push(d.allPapers[0]);assert.throws(()=>validate(d),/duplicate paper id/);});
+test('filenames match IDs',()=>{const d=copy();d.allPapers[0].id='a-different-id';assert.throws(()=>validate(d),/filename must equal/);});
+test('script URLs and traversal paths are rejected',()=>{for(const u of ['javascript:alert(1)','//evil.test','/../secret','/%2e%2e/secret','/file\\secret'])assert.equal(safeURL(u),false,u);assert.ok(safeURL('/files/a.pdf'));assert.ok(safeURL('https://arxiv.org/abs/2609.37876'));});
+test('paper resources cannot inject script URLs',()=>{const d=copy();d.allPapers[0].resources=[{label:'Bad',url:'javascript:alert(1)'}];assert.throws(()=>validate(d),/resource needs/);});
+test('YouTube IDs must be valid',()=>{const d=copy();d.allVideos[0].video={type:'youtube',id:'bad'};assert.throws(()=>validate(d),/11 characters/);});
+test('video references are validated',()=>{const d=copy();d.allVideos[0].papers=['not-a-paper'];assert.throws(()=>validate(d),/existing public/);});
+test('public records do not expose import metadata or arbitrary internal fields',()=>{const p={...original.papers[0],internal_editorial_notes:'DO_NOT_PUBLISH'};const out=JSON.stringify(publicPaper(original,p));assert.ok(!out.includes('DO_NOT_PUBLISH'));assert.ok(!out.includes('_file'));assert.ok(!out.includes('source_urls'));});
+test('author context is explicitly attributed and empty context is omitted',()=>{const p={...original.papers[0],agent_note:{attribution:'author',text:'Author-written context.',updated:'2026-10-03'}};assert.equal(publicPaper(original,p).author_context.author,original.site.name);p.agent_note.text='';assert.ok(!('author_context' in publicPaper(original,p)));});
+test('relative links work for nested file previews',()=>{assert.equal(href('/papers/example/index.html','/publications/'),'../../publications/index.html');assert.equal(href('/index.html','/'),'./index.html');assert.equal(href('/research/index.html','/publications/?view=students'),'../publications/index.html?view=students');});
+test('HTML and embedded JSON are escaped',()=>{assert.equal(esc('<script>'), '&lt;script&gt;');assert.ok(!jsonForHTML({a:'</script><script>alert(1)</script>'}).includes('<'));});
+test('Markdown never executes raw HTML',()=>{const html=markdown('**Bold** and <script>alert(1)</script>\n\n[Safe](/research/)','/index.html');assert.ok(html.includes('<strong>Bold</strong>'));assert.ok(!html.includes('<script>'));assert.ok(html.includes('./research/index.html'));});
+test('YouTube embeds load only on explicit interaction',()=>{const html=videoEmbed({title:'Test',video:{type:'youtube',id:'abcdefghijk'}},'/index.html');assert.ok(html.includes('data-load-video'));assert.ok(!html.includes('<iframe'));assert.ok(!html.includes('<img'));});
+test('direct video includes controls, captions and file fallback',()=>{const html=videoEmbed({title:'Test',video:{type:'file',url:'/files/test.mp4',captions:[{url:'/files/test.vtt',language:'en',label:'English'}]}},'/index.html');assert.ok(html.includes('<video controls'));assert.ok(html.includes('kind="captions"'));assert.ok(html.includes('playsinline'));assert.ok(html.includes('./files/test.mp4'));});
+test('end-to-end: drafts excluded, context stays out of normal pages, videos auto-associate',()=>{
+ const tmp=fs.mkdtempSync(path.join(os.tmpdir(),'psoberon-site-test-'));
+ try{
+  fs.cpSync(ROOT,tmp,{recursive:true,filter:(src)=>{const rel=path.relative(ROOT,src);return !/^(dist|node_modules|docs\/screenshots|test-results)(\/|$)/.test(rel);}});
+  const first=original.papers[0],file=path.join(tmp,'content/papers',first.id+'.json');const p=JSON.parse(fs.readFileSync(file,'utf8'));
+  p.agent_note={attribution:'author',text:'QA_AUTHOR_CONTEXT_SENTINEL',updated:'2026-10-03'};p.internal_editorial_notes='QA_PRIVATE_SENTINEL';fs.writeFileSync(file,JSON.stringify(p));
+  const draft={...p,id:'qa-draft-sentinel',title:'QA_DRAFT_TITLE_SENTINEL',draft:true};fs.writeFileSync(path.join(tmp,'content/papers/qa-draft-sentinel.json'),JSON.stringify(draft));
+  const v={id:'qa-video-sentinel',title:'QA video',kind:'paper-explainer',year:2026,date:'2026-10-03',papers:[p.id],topics:p.topics,video:{type:'youtube',id:'abcdefghijk'},draft:false};fs.writeFileSync(path.join(tmp,'content/videos/qa-video-sentinel.json'),JSON.stringify(v));
+  execFileSync(process.execPath,['scripts/build.mjs'],{cwd:tmp,stdio:'pipe'});
+  const html=fs.readFileSync(path.join(tmp,'dist/papers',p.id,'index.html'),'utf8'),json=fs.readFileSync(path.join(tmp,'dist/data/papers.json'),'utf8'),md=fs.readFileSync(path.join(tmp,'dist/papers',p.id,'index.md'),'utf8');
+  assert.ok(!html.includes('QA_AUTHOR_CONTEXT_SENTINEL'));assert.ok(!html.includes('QA_PRIVATE_SENTINEL'));assert.ok(html.includes('data-youtube="abcdefghijk"'));assert.ok(json.includes('QA_AUTHOR_CONTEXT_SENTINEL'));assert.ok(md.includes('QA_AUTHOR_CONTEXT_SENTINEL'));assert.ok(!json.includes('QA_PRIVATE_SENTINEL'));assert.ok(!json.includes('QA_DRAFT_TITLE_SENTINEL'));assert.ok(!fs.existsSync(path.join(tmp,'dist/papers/qa-draft-sentinel')));
+ }finally{fs.rmSync(tmp,{recursive:true,force:true});}
+});

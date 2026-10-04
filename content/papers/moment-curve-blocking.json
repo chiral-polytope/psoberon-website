@@ -1,0 +1,39 @@
+{
+  "id": "moment-curve-blocking",
+  "title": "Blocking codimension-one simplices on the moment curve",
+  "authors": [
+    "Pablo Soberón"
+  ],
+  "year": 2026,
+  "sort_order": 5,
+  "status": "submitted",
+  "reference": "",
+  "type": "research",
+  "topics": [
+    "convexity"
+  ],
+  "student_authors": [],
+  "featured": false,
+  "arxiv": "2608.09829",
+  "doi": "",
+  "pdf": "",
+  "summary": "",
+  "abstract": "",
+  "image": "",
+  "image_alt": "",
+  "resources": [],
+  "related_papers": [],
+  "agent_note": {
+    "attribution": "author",
+    "text": "",
+    "updated": ""
+  },
+  "methods": [],
+  "related_problems": [],
+  "draft": false,
+  "source_urls": [
+    "https://www.psoberon.com/full-list",
+    "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
+  ],
+  "imported_on": "2026-10-03"
+}

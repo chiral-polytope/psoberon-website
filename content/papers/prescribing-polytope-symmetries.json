@@ -1,0 +1,42 @@
+{
+  "id": "prescribing-polytope-symmetries",
+  "title": "Prescribing Symmetries and Automorphisms for Polytopes",
+  "authors": [
+    "Egon Schulte",
+    "Pablo Soberón",
+    "Gordon Ian Williams"
+  ],
+  "year": 2021,
+  "sort_order": 37,
+  "status": "published",
+  "reference": "Polytopes and Discrete Geometry, Contemporary Mathematics 764, American Mathematical Society, 221–233.",
+  "type": "research",
+  "topics": [
+    "symmetry",
+    "convexity"
+  ],
+  "student_authors": [],
+  "featured": false,
+  "arxiv": "1902.05439",
+  "doi": "",
+  "pdf": "",
+  "summary": "",
+  "abstract": "",
+  "image": "/images/finite-groups-polytopes.webp",
+  "image_alt": "Illustration accompanying Prescribing Symmetries and Automorphisms for Polytopes",
+  "resources": [],
+  "related_papers": [],
+  "agent_note": {
+    "attribution": "author",
+    "text": "",
+    "updated": ""
+  },
+  "methods": [],
+  "related_problems": [],
+  "draft": false,
+  "source_urls": [
+    "https://www.psoberon.com/full-list",
+    "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
+  ],
+  "imported_on": "2026-10-03"
+}

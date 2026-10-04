@@ -1,0 +1,41 @@
+{
+  "id": "fixed-direction-hyperplanes",
+  "title": "Measure Partitions Using Hyperplanes with Fixed Directions",
+  "authors": [
+    "Roman N. Karasev",
+    "Edgardo Roldán-Pensado",
+    "Pablo Soberón"
+  ],
+  "year": 2016,
+  "sort_order": 56,
+  "status": "published",
+  "reference": "Israel J. Math. 212 (2), 705–708.",
+  "type": "research",
+  "topics": [
+    "mass-partitions"
+  ],
+  "student_authors": [],
+  "featured": false,
+  "arxiv": "1408.4830",
+  "doi": "",
+  "pdf": "",
+  "summary": "",
+  "abstract": "",
+  "image": "",
+  "image_alt": "",
+  "resources": [],
+  "related_papers": [],
+  "agent_note": {
+    "attribution": "author",
+    "text": "",
+    "updated": ""
+  },
+  "methods": [],
+  "related_problems": [],
+  "draft": false,
+  "source_urls": [
+    "https://www.psoberon.com/full-list",
+    "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
+  ],
+  "imported_on": "2026-10-03"
+}

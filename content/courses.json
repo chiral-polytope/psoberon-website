@@ -1,0 +1,32 @@
+[
+  {
+    "code": "MTH 4005",
+    "title": "Problem-solving seminar",
+    "term": "Fall 2026",
+    "year": 2026
+  },
+  {
+    "code": "MTH 3210",
+    "title": "Linear Algebra",
+    "term": "Fall 2026",
+    "year": 2026
+  },
+  {
+    "code": "MTH 4010",
+    "title": "Analysis",
+    "term": "Fall 2026",
+    "year": 2026
+  },
+  {
+    "code": "MTH 4140",
+    "title": "Graph theory",
+    "term": "Spring 2026",
+    "year": 2026
+  },
+  {
+    "code": "MTH 4030",
+    "title": "Topology",
+    "term": "Fall 2025",
+    "year": 2025
+  }
+]

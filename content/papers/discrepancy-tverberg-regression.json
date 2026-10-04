@@ -1,0 +1,45 @@
+{
+  "id": "discrepancy-tverberg-regression",
+  "title": "Discrepancy theory, Tverberg's theorem, and regression depth",
+  "authors": [
+    "Aleksey Lopez",
+    "Pablo Soberón"
+  ],
+  "year": 2026,
+  "sort_order": 2,
+  "status": "preprint",
+  "reference": "",
+  "type": "research",
+  "topics": [
+    "tverberg",
+    "discrepancy"
+  ],
+  "student_authors": [
+    "Aleksey Lopez"
+  ],
+  "featured": false,
+  "arxiv": "2609.24775",
+  "doi": "",
+  "pdf": "",
+  "summary": "Discrepancy-theoretic bounds for Tverberg partitions with tolerance, for point sets and for regression hulls of hyperplanes.",
+  "abstract": "",
+  "image": "",
+  "image_alt": "",
+  "resources": [],
+  "related_papers": [],
+  "agent_note": {
+    "attribution": "author",
+    "text": "",
+    "updated": ""
+  },
+  "methods": [],
+  "related_problems": [],
+  "draft": false,
+  "source_urls": [
+    "https://www.psoberon.com/full-list",
+    "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
+  ],
+  "imported_on": "2026-10-03",
+  "summary_source": "https://arxiv.org/abs/2609.24775",
+  "date": "2026-09-21"
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Linear algebra methods in combinatorics",
+    "authors": "L. Babai and P. Frankl",
+    "description": "Linear-algebraic approaches to combinatorial problems.",
+    "url": ""
+  },
+  {
+    "title": "Using the Borsuk–Ulam Theorem",
+    "authors": "J. Matoušek",
+    "description": "Topological methods in discrete geometry.",
+    "url": ""
+  },
+  {
+    "title": "An elementary introduction to modern convex geometry",
+    "authors": "K. Ball",
+    "description": "Flavors of Geometry, MSRI Publications (1997).",
+    "url": "https://library.msri.org/books/Book31/files/ball.pdf"
+  },
+  {
+    "title": "On the Shannon capacity of a graph",
+    "authors": "L. Lovász",
+    "description": "IEEE Transactions on Information Theory 25 (1979), 1–7.",
+    "url": ""
+  },
+  {
+    "title": "A Generalization of Carathéodory’s Theorem",
+    "authors": "I. Bárány",
+    "description": "Discrete Mathematics 40 (1982), 141–152.",
+    "url": ""
+  },
+  {
+    "title": "A short proof of Sperner’s lemma",
+    "authors": "D. Lubell",
+    "description": "Journal of Combinatorial Theory 1 (1966), 299.",
+    "url": ""
+  }
+]

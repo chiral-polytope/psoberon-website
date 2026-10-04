@@ -1,0 +1,39 @@
+{
+  "id": "equal-coefficients",
+  "title": "Equal coefficients and tolerance in coloured Tverberg partitions",
+  "authors": [
+    "Pablo Soberón"
+  ],
+  "year": 2015,
+  "sort_order": 59,
+  "status": "published",
+  "reference": "Combinatorica 35 (2), 235–252.",
+  "type": "research",
+  "topics": [
+    "tverberg"
+  ],
+  "student_authors": [],
+  "featured": false,
+  "arxiv": "1204.1202",
+  "doi": "",
+  "pdf": "",
+  "summary": "",
+  "abstract": "",
+  "image": "/images/equal-coefficients.webp",
+  "image_alt": "Illustration accompanying Equal coefficients and tolerance in coloured Tverberg partitions",
+  "resources": [],
+  "related_papers": [],
+  "agent_note": {
+    "attribution": "author",
+    "text": "",
+    "updated": ""
+  },
+  "methods": [],
+  "related_problems": [],
+  "draft": false,
+  "source_urls": [
+    "https://www.psoberon.com/full-list",
+    "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
+  ],
+  "imported_on": "2026-10-03"
+}

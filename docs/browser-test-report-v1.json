@@ -1,0 +1,105 @@
+{
+  "environment": "Chromium; generated pages rendered with local assets inlined because managed-browser navigation is disabled. HTTP server tested separately.",
+  "checks": [
+    {
+      "test": "Catalog initializes with all 63 papers",
+      "result": "passed",
+      "detail": ""
+    },
+    {
+      "test": "Student filter: 17 results",
+      "result": "passed",
+      "detail": ""
+    },
+    {
+      "test": "Accent-insensitive search matches B\u00e1r\u00e1ny",
+      "result": "passed",
+      "detail": ""
+    },
+    {
+      "test": "No-results state",
+      "result": "passed",
+      "detail": ""
+    },
+    {
+      "test": "Coauthor filter",
+      "result": "passed",
+      "detail": ""
+    },
+    {
+      "test": "Intersecting author/topic/status filters",
+      "result": "passed",
+      "detail": ""
+    },
+    {
+      "test": "With-videos filter does not invent recordings",
+      "result": "passed",
+      "detail": ""
+    },
+    {
+      "test": "No catalog JavaScript exceptions",
+      "result": "passed",
+      "detail": ""
+    },
+    {
+      "test": "50 responsive page/viewport combinations have no horizontal overflow",
+      "result": "passed",
+      "detail": "10 representative pages at 320, 390, 768, 1024 and 1440 px"
+    },
+    {
+      "test": "Mobile navigation toggle",
+      "result": "passed",
+      "detail": ""
+    },
+    {
+      "test": "No-JavaScript catalog and navigation remain available",
+      "result": "passed",
+      "detail": ""
+    },
+    {
+      "test": "Editor imports an existing record, preserves extra fields, downloads valid JSON",
+      "result": "passed",
+      "detail": ""
+    },
+    {
+      "test": "Editor new-paper/student/topic/draft workflow",
+      "result": "passed",
+      "detail": ""
+    },
+    {
+      "test": "Editor converts a YouTube URL and associates a paper",
+      "result": "passed",
+      "detail": ""
+    },
+    {
+      "test": "Editor research-note export",
+      "result": "passed",
+      "detail": ""
+    },
+    {
+      "test": "Local HTTP server serves homepage",
+      "result": "passed",
+      "detail": ""
+    },
+    {
+      "test": "Editor route serves locally",
+      "result": "passed",
+      "detail": ""
+    },
+    {
+      "test": "404s and source-only files are not served",
+      "result": "passed",
+      "detail": ""
+    },
+    {
+      "test": "Read-only method and loopback-host checks",
+      "result": "passed",
+      "detail": ""
+    },
+    {
+      "test": "PDF byte-range serving",
+      "result": "passed",
+      "detail": ""
+    }
+  ]
+}

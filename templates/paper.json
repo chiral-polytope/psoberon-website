@@ -1,0 +1,33 @@
+{
+  "id": "my-new-paper",
+  "title": "Replace with the paper title",
+  "authors": [
+    "Pablo Soberón"
+  ],
+  "year": 2026,
+  "sort_order": 0,
+  "status": "preprint",
+  "reference": "",
+  "type": "research",
+  "topics": [],
+  "student_authors": [],
+  "featured": false,
+  "arxiv": "",
+  "doi": "",
+  "pdf": "",
+  "summary": "",
+  "abstract": "",
+  "image": "",
+  "image_alt": "",
+  "resources": [],
+  "related_papers": [],
+  "agent_note": {
+    "attribution": "author",
+    "text": "",
+    "updated": ""
+  },
+  "methods": [],
+  "related_problems": [],
+  "draft": true,
+  "date": "2026-10-03"
+}

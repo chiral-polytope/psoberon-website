@@ -1,0 +1,46 @@
+{
+  "name": "Pablo Soberón",
+  "url": "https://www.psoberon.com",
+  "language": "en",
+  "tagline": "Discrete geometry & topological combinatorics",
+  "position": "Associate Professor of Mathematics",
+  "institutions": [
+    "Baruch College",
+    "The Graduate Center, CUNY"
+  ],
+  "email": "pablo.soberon-bravo@baruch.cuny.edu",
+  "description": "Research, papers, and teaching in discrete geometry and topological combinatorics by Pablo Soberón, Baruch College and The Graduate Center, CUNY.",
+  "intro": "I study the interaction between combinatorics, algebraic topology, and linear algebra, with a focus on discrete geometry and topological combinatorics.",
+  "portrait": "/images/portrait.jpg",
+  "scholar": "https://scholar.google.com/citations?user=fp1YFEwAAAAJ",
+  "orcid": "https://orcid.org/0000-0003-2347-4279",
+  "geometry_group": "https://geometrynyc.wixsite.com/home",
+  "reu": "https://geometrynyc.wixsite.com/home/combinatorics-reu",
+  "seminar": "https://geometrynyc.wixsite.com/home",
+  "brightspace": "https://brightspace.cuny.edu/",
+  "office": [
+    "Office 6-226",
+    "Department of Mathematics, Baruch College",
+    "55 Lexington Avenue",
+    "New York, NY 10010"
+  ],
+  "mail_note": "For postal mail, use room 6-230 instead of 6-226.",
+  "cv_asset": "cv-full",
+  "short_cv_asset": "cv-short",
+  "home_topics": [
+    "tverberg",
+    "mass-partitions",
+    "helly",
+    "topological-combinatorics"
+  ],
+  "preview_noindex": true,
+  "migration_date": "2026-10-03",
+  "notes_enabled": true,
+  "desktop_background": "/images/back.png",
+  "home_artwork": {
+    "image": "/images/breaking-symmetries.png",
+    "alt": "Two cubes: one covered in painted portraits, the other showing a geometric construction.",
+    "title": "Breaking symmetries",
+    "caption": "An illustration I made for a talk."
+  }
+}

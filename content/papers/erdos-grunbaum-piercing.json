@@ -1,0 +1,43 @@
+{
+  "id": "erdos-grunbaum-piercing",
+  "title": "About an Erdős–Grünbaum conjecture concerning piercing of non bounded convex sets",
+  "authors": [
+    "Amanda Montejano",
+    "Luis Montejano",
+    "Edgardo Roldán-Pensado",
+    "Pablo Soberón"
+  ],
+  "year": 2015,
+  "sort_order": 57,
+  "status": "published",
+  "reference": "Discrete Comput. Geom. 53 (4), 941–950.",
+  "type": "research",
+  "topics": [
+    "helly",
+    "convexity"
+  ],
+  "student_authors": [],
+  "featured": false,
+  "arxiv": "1407.0642",
+  "doi": "",
+  "pdf": "",
+  "summary": "",
+  "abstract": "",
+  "image": "",
+  "image_alt": "",
+  "resources": [],
+  "related_papers": [],
+  "agent_note": {
+    "attribution": "author",
+    "text": "",
+    "updated": ""
+  },
+  "methods": [],
+  "related_problems": [],
+  "draft": false,
+  "source_urls": [
+    "https://www.psoberon.com/full-list",
+    "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
+  ],
+  "imported_on": "2026-10-03"
+}

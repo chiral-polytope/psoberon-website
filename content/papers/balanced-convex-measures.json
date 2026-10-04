@@ -1,0 +1,40 @@
+{
+  "id": "balanced-convex-measures",
+  "title": "Balanced Convex Partitions of Measures in ℝᵈ",
+  "authors": [
+    "Pablo Soberón"
+  ],
+  "year": 2012,
+  "sort_order": 61,
+  "status": "published",
+  "reference": "Mathematika 58, 71–76.",
+  "type": "research",
+  "topics": [
+    "mass-partitions",
+    "topological-combinatorics"
+  ],
+  "student_authors": [],
+  "featured": false,
+  "arxiv": "1010.6191",
+  "doi": "10.1112/S0025579311001914",
+  "pdf": "",
+  "summary": "",
+  "abstract": "",
+  "image": "",
+  "image_alt": "",
+  "resources": [],
+  "related_papers": [],
+  "agent_note": {
+    "attribution": "author",
+    "text": "",
+    "updated": ""
+  },
+  "methods": [],
+  "related_problems": [],
+  "draft": false,
+  "source_urls": [
+    "https://www.psoberon.com/full-list",
+    "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
+  ],
+  "imported_on": "2026-10-03"
+}

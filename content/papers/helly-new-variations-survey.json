@@ -1,0 +1,42 @@
+{
+  "id": "helly-new-variations-survey",
+  "title": "Helly’s Theorem: New Variations and Applications",
+  "authors": [
+    "Nina Amenta",
+    "Jesús A. De Loera",
+    "Pablo Soberón"
+  ],
+  "year": 2017,
+  "sort_order": 50,
+  "status": "published",
+  "reference": "Algebraic and Geometric Methods in Discrete Mathematics, Contemporary Mathematics 685, American Mathematical Society, 55–95.",
+  "type": "survey",
+  "topics": [
+    "helly",
+    "convexity"
+  ],
+  "student_authors": [],
+  "featured": false,
+  "arxiv": "1508.07606",
+  "doi": "",
+  "pdf": "",
+  "summary": "",
+  "abstract": "",
+  "image": "/images/helly-new-variations-survey.webp",
+  "image_alt": "Illustration accompanying Helly’s Theorem: New Variations and Applications",
+  "resources": [],
+  "related_papers": [],
+  "agent_note": {
+    "attribution": "author",
+    "text": "",
+    "updated": ""
+  },
+  "methods": [],
+  "related_problems": [],
+  "draft": false,
+  "source_urls": [
+    "https://www.psoberon.com/full-list",
+    "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
+  ],
+  "imported_on": "2026-10-03"
+}

@@ -1,0 +1,340 @@
+{
+  "method": "Generated HTML supplied directly to managed Chromium with local assets inlined; HTTP server tested separately. Browser URL navigation is blocked by administrator policy. No policy was changed.",
+  "matrix": [
+    {
+      "page": "index.html",
+      "width": 320,
+      "no_horizontal_overflow": true,
+      "all_images_decode": true,
+      "background_breakpoint_correct": true
+    },
+    {
+      "page": "index.html",
+      "width": 390,
+      "no_horizontal_overflow": true,
+      "all_images_decode": true,
+      "background_breakpoint_correct": true
+    },
+    {
+      "page": "index.html",
+      "width": 768,
+      "no_horizontal_overflow": true,
+      "all_images_decode": true,
+      "background_breakpoint_correct": true
+    },
+    {
+      "page": "index.html",
+      "width": 1024,
+      "no_horizontal_overflow": true,
+      "all_images_decode": true,
+      "background_breakpoint_correct": true
+    },
+    {
+      "page": "index.html",
+      "width": 1440,
+      "no_horizontal_overflow": true,
+      "all_images_decode": true,
+      "background_breakpoint_correct": true
+    },
+    {
+      "page": "index.html",
+      "width": 1920,
+      "no_horizontal_overflow": true,
+      "all_images_decode": true,
+      "background_breakpoint_correct": true
+    },
+    {
+      "page": "about/index.html",
+      "width": 320,
+      "no_horizontal_overflow": true,
+      "all_images_decode": true,
+      "background_breakpoint_correct": true
+    },
+    {
+      "page": "about/index.html",
+      "width": 390,
+      "no_horizontal_overflow": true,
+      "all_images_decode": true,
+      "background_breakpoint_correct": true
+    },
+    {
+      "page": "about/index.html",
+      "width": 768,
+      "no_horizontal_overflow": true,
+      "all_images_decode": true,
+      "background_breakpoint_correct": true
+    },
+    {
+      "page": "about/index.html",
+      "width": 1024,
+      "no_horizontal_overflow": true,
+      "all_images_decode": true,
+      "background_breakpoint_correct": true
+    },
+    {
+      "page": "about/index.html",
+      "width": 1440,
+      "no_horizontal_overflow": true,
+      "all_images_decode": true,
+      "background_breakpoint_correct": true
+    },
+    {
+      "page": "about/index.html",
+      "width": 1920,
+      "no_horizontal_overflow": true,
+      "all_images_decode": true,
+      "background_breakpoint_correct": true
+    },
+    {
+      "page": "publications/index.html",
+      "width": 320,
+      "no_horizontal_overflow": true,
+      "all_images_decode": true,
+      "background_breakpoint_correct": true
+    },
+    {
+      "page": "publications/index.html",
+      "width": 390,
+      "no_horizontal_overflow": true,
+      "all_images_decode": true,
+      "background_breakpoint_correct": true
+    },
+    {
+      "page": "publications/index.html",
+      "width": 768,
+      "no_horizontal_overflow": true,
+      "all_images_decode": true,
+      "background_breakpoint_correct": true
+    },
+    {
+      "page": "publications/index.html",
+      "width": 1024,
+      "no_horizontal_overflow": true,
+      "all_images_decode": true,
+      "background_breakpoint_correct": true
+    },
+    {
+      "page": "publications/index.html",
+      "width": 1440,
+      "no_horizontal_overflow": true,
+      "all_images_decode": true,
+      "background_breakpoint_correct": true
+    },
+    {
+      "page": "publications/index.html",
+      "width": 1920,
+      "no_horizontal_overflow": true,
+      "all_images_decode": true,
+      "background_breakpoint_correct": true
+    },
+    {
+      "page": "research/index.html",
+      "width": 320,
+      "no_horizontal_overflow": true,
+      "all_images_decode": true,
+      "background_breakpoint_correct": true
+    },
+    {
+      "page": "research/index.html",
+      "width": 390,
+      "no_horizontal_overflow": true,
+      "all_images_decode": true,
+      "background_breakpoint_correct": true
+    },
+    {
+      "page": "research/index.html",
+      "width": 768,
+      "no_horizontal_overflow": true,
+      "all_images_decode": true,
+      "background_breakpoint_correct": true
+    },
+    {
+      "page": "research/index.html",
+      "width": 1024,
+      "no_horizontal_overflow": true,
+      "all_images_decode": true,
+      "background_breakpoint_correct": true
+    },
+    {
+      "page": "research/index.html",
+      "width": 1440,
+      "no_horizontal_overflow": true,
+      "all_images_decode": true,
+      "background_breakpoint_correct": true
+    },
+    {
+      "page": "research/index.html",
+      "width": 1920,
+      "no_horizontal_overflow": true,
+      "all_images_decode": true,
+      "background_breakpoint_correct": true
+    },
+    {
+      "page": "students/index.html",
+      "width": 320,
+      "no_horizontal_overflow": true,
+      "all_images_decode": true,
+      "background_breakpoint_correct": true
+    },
+    {
+      "page": "students/index.html",
+      "width": 390,
+      "no_horizontal_overflow": true,
+      "all_images_decode": true,
+      "background_breakpoint_correct": true
+    },
+    {
+      "page": "students/index.html",
+      "width": 768,
+      "no_horizontal_overflow": true,
+      "all_images_decode": true,
+      "background_breakpoint_correct": true
+    },
+    {
+      "page": "students/index.html",
+      "width": 1024,
+      "no_horizontal_overflow": true,
+      "all_images_decode": true,
+      "background_breakpoint_correct": true
+    },
+    {
+      "page": "students/index.html",
+      "width": 1440,
+      "no_horizontal_overflow": true,
+      "all_images_decode": true,
+      "background_breakpoint_correct": true
+    },
+    {
+      "page": "students/index.html",
+      "width": 1920,
+      "no_horizontal_overflow": true,
+      "all_images_decode": true,
+      "background_breakpoint_correct": true
+    },
+    {
+      "page": "videos/index.html",
+      "width": 320,
+      "no_horizontal_overflow": true,
+      "all_images_decode": true,
+      "background_breakpoint_correct": true
+    },
+    {
+      "page": "videos/index.html",
+      "width": 390,
+      "no_horizontal_overflow": true,
+      "all_images_decode": true,
+      "background_breakpoint_correct": true
+    },
+    {
+      "page": "videos/index.html",
+      "width": 768,
+      "no_horizontal_overflow": true,
+      "all_images_decode": true,
+      "background_breakpoint_correct": true
+    },
+    {
+      "page": "videos/index.html",
+      "width": 1024,
+      "no_horizontal_overflow": true,
+      "all_images_decode": true,
+      "background_breakpoint_correct": true
+    },
+    {
+      "page": "videos/index.html",
+      "width": 1440,
+      "no_horizontal_overflow": true,
+      "all_images_decode": true,
+      "background_breakpoint_correct": true
+    },
+    {
+      "page": "videos/index.html",
+      "width": 1920,
+      "no_horizontal_overflow": true,
+      "all_images_decode": true,
+      "background_breakpoint_correct": true
+    },
+    {
+      "page": "papers/barany-larman-primes/index.html",
+      "width": 320,
+      "no_horizontal_overflow": true,
+      "all_images_decode": true,
+      "background_breakpoint_correct": true
+    },
+    {
+      "page": "papers/barany-larman-primes/index.html",
+      "width": 390,
+      "no_horizontal_overflow": true,
+      "all_images_decode": true,
+      "background_breakpoint_correct": true
+    },
+    {
+      "page": "papers/barany-larman-primes/index.html",
+      "width": 768,
+      "no_horizontal_overflow": true,
+      "all_images_decode": true,
+      "background_breakpoint_correct": true
+    },
+    {
+      "page": "papers/barany-larman-primes/index.html",
+      "width": 1024,
+      "no_horizontal_overflow": true,
+      "all_images_decode": true,
+      "background_breakpoint_correct": true
+    },
+    {
+      "page": "papers/barany-larman-primes/index.html",
+      "width": 1440,
+      "no_horizontal_overflow": true,
+      "all_images_decode": true,
+      "background_breakpoint_correct": true
+    },
+    {
+      "page": "papers/barany-larman-primes/index.html",
+      "width": 1920,
+      "no_horizontal_overflow": true,
+      "all_images_decode": true,
+      "background_breakpoint_correct": true
+    }
+  ],
+  "interactions": [
+    "Desktop background remains at viewport top while the foreground moves by the full scroll distance.",
+    "Reduced-motion preference disables the fixed layer.",
+    "Student filter shows 17 of 63 papers.",
+    "Publication search finds the student coauthor.",
+    "Empty-result message is displayed correctly.",
+    "Mobile menu opens and closes."
+  ],
+  "http": [
+    {
+      "path": "/",
+      "status": 200,
+      "mime": "text/html; charset=utf-8"
+    },
+    {
+      "path": "/about/",
+      "status": 200,
+      "mime": "text/html; charset=utf-8"
+    },
+    {
+      "path": "/images/portrait.jpg?v=qa",
+      "status": 200,
+      "mime": "image/jpeg"
+    },
+    {
+      "path": "/images/back.png",
+      "status": 200,
+      "mime": "image/png"
+    },
+    {
+      "path": "/__editor/editor.html",
+      "status": 200,
+      "mime": "text/html; charset=utf-8"
+    },
+    {
+      "path": "/data/papers.json",
+      "status": 200,
+      "mime": "application/json; charset=utf-8"
+    }
+  ],
+  "javascript_errors": []
+}

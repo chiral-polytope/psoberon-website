@@ -1,0 +1,39 @@
+{
+  "id": "tensors-colors-convex-hulls",
+  "title": "Tensors, colors, and convex hulls",
+  "authors": [
+    "Pablo Soberón"
+  ],
+  "year": 2017,
+  "sort_order": 49,
+  "status": "published",
+  "reference": "Discrete Geometry and Convexity: in honour of Imre Bárány, edited by Gergely Ambrus, Károly J. Böröczky and Zoltán Füredi, 97–101. ISBN 978 963 279 963 6.",
+  "type": "research",
+  "topics": [
+    "tverberg"
+  ],
+  "student_authors": [],
+  "featured": false,
+  "arxiv": "",
+  "doi": "",
+  "pdf": "",
+  "summary": "",
+  "abstract": "",
+  "image": "",
+  "image_alt": "",
+  "resources": [],
+  "related_papers": [],
+  "agent_note": {
+    "attribution": "author",
+    "text": "",
+    "updated": ""
+  },
+  "methods": [],
+  "related_problems": [],
+  "draft": false,
+  "source_urls": [
+    "https://www.psoberon.com/full-list",
+    "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
+  ],
+  "imported_on": "2026-10-03"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "psoberon-site",
+  "version": "1.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Portable academic website: plain content, plain HTML, no dependencies.",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/serve.mjs --watch",
+    "preview": "node scripts/serve.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "check": "node scripts/check.mjs",
+    "check:launch": "node scripts/check.mjs --launch",
+    "import:wix": "node scripts/import-wix.mjs",
+    "recover:wix": "node scripts/recover-wix.mjs"
+  }
+}

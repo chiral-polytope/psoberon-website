@@ -1,0 +1,42 @@
+{
+  "id": "mass-assignments-spheres-wedges",
+  "title": "Partitions of mass assignments with spheres and wedges",
+  "authors": [
+    "Deron Lessure",
+    "Pablo Soberón"
+  ],
+  "year": 2025,
+  "sort_order": 13,
+  "status": "accepted",
+  "reference": "Accepted in European Journal of Combinatorics",
+  "type": "research",
+  "topics": [
+    "mass-partitions"
+  ],
+  "student_authors": [
+    "Deron Lessure"
+  ],
+  "featured": false,
+  "arxiv": "2507.06919",
+  "doi": "",
+  "pdf": "",
+  "summary": "",
+  "abstract": "",
+  "image": "/images/mass-assignments-spheres-wedges.webp",
+  "image_alt": "Illustration accompanying Partitions of mass assignments with spheres and wedges",
+  "resources": [],
+  "related_papers": [],
+  "agent_note": {
+    "attribution": "author",
+    "text": "",
+    "updated": ""
+  },
+  "methods": [],
+  "related_problems": [],
+  "draft": false,
+  "source_urls": [
+    "https://www.psoberon.com/full-list",
+    "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
+  ],
+  "imported_on": "2026-10-03"
+}

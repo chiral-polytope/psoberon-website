@@ -1,0 +1,42 @@
+{
+  "id": "dolnikov-problem",
+  "title": "On a Problem by Dol’nikov",
+  "authors": [
+    "Jesús Jerónimo-Castro",
+    "Alexander Magazinov",
+    "Pablo Soberón"
+  ],
+  "year": 2015,
+  "sort_order": 58,
+  "status": "published",
+  "reference": "Discrete Math. 338 (9), 1577–1585.",
+  "type": "research",
+  "topics": [
+    "helly",
+    "convexity"
+  ],
+  "student_authors": [],
+  "featured": false,
+  "arxiv": "1310.4714",
+  "doi": "",
+  "pdf": "",
+  "summary": "",
+  "abstract": "",
+  "image": "",
+  "image_alt": "",
+  "resources": [],
+  "related_papers": [],
+  "agent_note": {
+    "attribution": "author",
+    "text": "",
+    "updated": ""
+  },
+  "methods": [],
+  "related_problems": [],
+  "draft": false,
+  "source_urls": [
+    "https://www.psoberon.com/full-list",
+    "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
+  ],
+  "imported_on": "2026-10-03"
+}

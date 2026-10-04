@@ -1,0 +1,42 @@
+{
+  "id": "cutting-many-measures",
+  "title": "Cutting a part of many measures",
+  "authors": [
+    "Pavle V. M. Blagojević",
+    "Nevena Palić",
+    "Pablo Soberón",
+    "Günter M. Ziegler"
+  ],
+  "year": 2019,
+  "sort_order": 41,
+  "status": "published",
+  "reference": "Forum of Mathematics, Sigma 7, E37.",
+  "type": "research",
+  "topics": [
+    "mass-partitions"
+  ],
+  "student_authors": [],
+  "featured": false,
+  "arxiv": "1710.05118",
+  "doi": "",
+  "pdf": "",
+  "summary": "",
+  "abstract": "",
+  "image": "/images/cutting-many-measures.webp",
+  "image_alt": "Illustration accompanying Cutting a part of many measures",
+  "resources": [],
+  "related_papers": [],
+  "agent_note": {
+    "attribution": "author",
+    "text": "",
+    "updated": ""
+  },
+  "methods": [],
+  "related_problems": [],
+  "draft": false,
+  "source_urls": [
+    "https://www.psoberon.com/full-list",
+    "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
+  ],
+  "imported_on": "2026-10-03"
+}

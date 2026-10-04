@@ -1,0 +1,40 @@
+{
+  "id": "more-participants-than-allocations",
+  "title": "Fair distributions for more participants than allocations",
+  "authors": [
+    "Pablo Soberón"
+  ],
+  "year": 2022,
+  "sort_order": 27,
+  "status": "published",
+  "reference": "Proc. Amer. Math. Soc., Ser. B 9, 404–414.",
+  "type": "research",
+  "topics": [
+    "fair-division",
+    "topological-combinatorics"
+  ],
+  "student_authors": [],
+  "featured": false,
+  "arxiv": "2110.03600",
+  "doi": "",
+  "pdf": "",
+  "summary": "",
+  "abstract": "",
+  "image": "/images/more-participants-than-allocations.webp",
+  "image_alt": "Illustration accompanying Fair distributions for more participants than allocations",
+  "resources": [],
+  "related_papers": [],
+  "agent_note": {
+    "attribution": "author",
+    "text": "",
+    "updated": ""
+  },
+  "methods": [],
+  "related_problems": [],
+  "draft": false,
+  "source_urls": [
+    "https://www.psoberon.com/full-list",
+    "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
+  ],
+  "imported_on": "2026-10-03"
+}

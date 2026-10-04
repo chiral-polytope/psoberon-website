@@ -1,0 +1,251 @@
+{
+  "checked_date": "2026-10-03",
+  "scope": "Document links on Home, CV + About Me, Courses, PUTNAM resources, Student mentoring, Slides/seminars, and Notas en español. This is not a claim that every external link on the site was checked.",
+  "method": "The web browsing tool opened each URL and recognized it as a PDF with the listed page count. The file-download environment could not export the original PDF bytes. No reconstructed or rasterized substitute PDFs were made.",
+  "all_original_pdf_bytes_saved": false,
+  "documents": [
+    {
+      "id": "cv-full",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf",
+      "linked_on": "https://www.psoberon.com/cv-about-me",
+      "online_pdf_readable": true,
+      "online_page_count": 11,
+      "original_bytes_saved_locally": false,
+      "destination": "public/files/cv.pdf"
+    },
+    {
+      "id": "cv-short",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_d6a731a15987438c85b5f130639304d8.pdf",
+      "linked_on": "https://www.psoberon.com/cv-about-me",
+      "online_pdf_readable": true,
+      "online_page_count": 3,
+      "original_bytes_saved_locally": false,
+      "destination": "public/files/cv-short.pdf"
+    },
+    {
+      "id": "analysis-supplement",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_a37ff234a9cb41038c2c1b9c3300543c.pdf",
+      "linked_on": "https://www.psoberon.com/teaching",
+      "online_pdf_readable": true,
+      "online_page_count": 3,
+      "original_bytes_saved_locally": false,
+      "destination": "public/files/analysis-supplement.pdf"
+    },
+    {
+      "id": "slides-stiefel",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_ff0ea3a657dc42559bdd84207108a0e4.pdf",
+      "linked_on": "https://www.psoberon.com/more",
+      "online_pdf_readable": true,
+      "online_page_count": 148,
+      "original_bytes_saved_locally": false,
+      "destination": "public/files/slides/stiefel-manifolds.pdf"
+    },
+    {
+      "id": "slides-linear-tverberg",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_1a8573809ea2457a96260d8ff5374692.pdf",
+      "linked_on": "https://www.psoberon.com/more",
+      "online_pdf_readable": true,
+      "online_page_count": 151,
+      "original_bytes_saved_locally": false,
+      "destination": "public/files/slides/linear-tverberg.pdf"
+    },
+    {
+      "id": "fair-division-es",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_df71c1f840db4eec9f037857cca9b170.pdf",
+      "linked_on": "https://www.psoberon.com/esp",
+      "online_pdf_readable": true,
+      "online_page_count": 18,
+      "original_bytes_saved_locally": false,
+      "destination": "public/files/es/distribuciones-justas.pdf"
+    },
+    {
+      "id": "putnam-1",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_3c12bc0eb68543df892fd7cdaa6aa74b.pdf",
+      "linked_on": "https://www.psoberon.com/putnam-resources",
+      "online_pdf_readable": true,
+      "online_page_count": 1,
+      "original_bytes_saved_locally": false,
+      "destination": "public/files/putnam/putnam-1.pdf"
+    },
+    {
+      "id": "putnam-1-hints",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_92f4ea7c5e444a8abf074518895e2271.pdf",
+      "linked_on": "https://www.psoberon.com/putnam-resources",
+      "online_pdf_readable": true,
+      "online_page_count": 1,
+      "original_bytes_saved_locally": false,
+      "destination": "public/files/putnam/putnam-1-hints.pdf"
+    },
+    {
+      "id": "putnam-2",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_50b7a68c519c462699df30891f61eca3.pdf",
+      "linked_on": "https://www.psoberon.com/putnam-resources",
+      "online_pdf_readable": true,
+      "online_page_count": 1,
+      "original_bytes_saved_locally": false,
+      "destination": "public/files/putnam/putnam-2.pdf"
+    },
+    {
+      "id": "putnam-2-hints",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_412947c97d754a309e1addc911906767.pdf",
+      "linked_on": "https://www.psoberon.com/putnam-resources",
+      "online_pdf_readable": true,
+      "online_page_count": 2,
+      "original_bytes_saved_locally": false,
+      "destination": "public/files/putnam/putnam-2-hints.pdf"
+    },
+    {
+      "id": "putnam-3",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_4cb1469f3bd54619ad7267b0278d9d87.pdf",
+      "linked_on": "https://www.psoberon.com/putnam-resources",
+      "online_pdf_readable": true,
+      "online_page_count": 1,
+      "original_bytes_saved_locally": false,
+      "destination": "public/files/putnam/putnam-3.pdf"
+    },
+    {
+      "id": "putnam-3-hints",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_d4617a0e7cc24699965d5ce76d139ef3.pdf",
+      "linked_on": "https://www.psoberon.com/putnam-resources",
+      "online_pdf_readable": true,
+      "online_page_count": 2,
+      "original_bytes_saved_locally": false,
+      "destination": "public/files/putnam/putnam-3-hints.pdf"
+    },
+    {
+      "id": "putnam-4",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_a183382333c442c6ac5664638a93bc59.pdf",
+      "linked_on": "https://www.psoberon.com/putnam-resources",
+      "online_pdf_readable": true,
+      "online_page_count": 1,
+      "original_bytes_saved_locally": false,
+      "destination": "public/files/putnam/putnam-4.pdf"
+    },
+    {
+      "id": "putnam-4-hints",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_84eab54446d345d784876fc761f3c29e.pdf",
+      "linked_on": "https://www.psoberon.com/putnam-resources",
+      "online_pdf_readable": true,
+      "online_page_count": 2,
+      "original_bytes_saved_locally": false,
+      "destination": "public/files/putnam/putnam-4-hints.pdf"
+    },
+    {
+      "id": "putnam-5",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_eba633aa737b4114878d347db6b21c51.pdf",
+      "linked_on": "https://www.psoberon.com/putnam-resources",
+      "online_pdf_readable": true,
+      "online_page_count": 1,
+      "original_bytes_saved_locally": false,
+      "destination": "public/files/putnam/putnam-5.pdf"
+    },
+    {
+      "id": "putnam-5-hints",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_748ce45b011f48df8d78ef6fc99e5f78.pdf",
+      "linked_on": "https://www.psoberon.com/putnam-resources",
+      "online_pdf_readable": true,
+      "online_page_count": 2,
+      "original_bytes_saved_locally": false,
+      "destination": "public/files/putnam/putnam-5-hints.pdf"
+    },
+    {
+      "id": "putnam-6",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_0216a65e139448b28e3bde9cba83489a.pdf",
+      "linked_on": "https://www.psoberon.com/putnam-resources",
+      "online_pdf_readable": true,
+      "online_page_count": 1,
+      "original_bytes_saved_locally": false,
+      "destination": "public/files/putnam/putnam-6.pdf"
+    },
+    {
+      "id": "putnam-6-hints",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_07620f9290f04c7f832603ad106a1dfe.pdf",
+      "linked_on": "https://www.psoberon.com/putnam-resources",
+      "online_pdf_readable": true,
+      "online_page_count": 2,
+      "original_bytes_saved_locally": false,
+      "destination": "public/files/putnam/putnam-6-hints.pdf"
+    },
+    {
+      "id": "putnam-7",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_526b4ac13cbf4934bcc4c732825392d9.pdf",
+      "linked_on": "https://www.psoberon.com/putnam-resources",
+      "online_pdf_readable": true,
+      "online_page_count": 1,
+      "original_bytes_saved_locally": false,
+      "destination": "public/files/putnam/putnam-7.pdf"
+    },
+    {
+      "id": "putnam-7-hints",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_d14444e44a5b48e190d88646460c01f9.pdf",
+      "linked_on": "https://www.psoberon.com/putnam-resources",
+      "online_pdf_readable": true,
+      "online_page_count": 2,
+      "original_bytes_saved_locally": false,
+      "destination": "public/files/putnam/putnam-7-hints.pdf"
+    },
+    {
+      "id": "putnam-8",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_0852459e64fd40c7afe96ded75b231bd.pdf",
+      "linked_on": "https://www.psoberon.com/putnam-resources",
+      "online_pdf_readable": true,
+      "online_page_count": 1,
+      "original_bytes_saved_locally": false,
+      "destination": "public/files/putnam/putnam-8.pdf"
+    },
+    {
+      "id": "putnam-8-hints",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_b994d7df807348448007b086f0a4e7f1.pdf",
+      "linked_on": "https://www.psoberon.com/putnam-resources",
+      "online_pdf_readable": true,
+      "online_page_count": 2,
+      "original_bytes_saved_locally": false,
+      "destination": "public/files/putnam/putnam-8-hints.pdf"
+    },
+    {
+      "id": "putnam-9",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_c2a8a05c4a8241cdbc2c4c3f82db1686.pdf",
+      "linked_on": "https://www.psoberon.com/putnam-resources",
+      "online_pdf_readable": true,
+      "online_page_count": 1,
+      "original_bytes_saved_locally": false,
+      "destination": "public/files/putnam/putnam-9.pdf"
+    },
+    {
+      "id": "panama-1",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_da180a8e042c44fd8e1a5eb42e77db06.pdf",
+      "linked_on": "https://www.psoberon.com/esp",
+      "online_pdf_readable": true,
+      "online_page_count": 2,
+      "original_bytes_saved_locally": false,
+      "destination": "public/files/es/panama-1.pdf"
+    },
+    {
+      "id": "panama-2",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_785cfadb34b64836b5d5a7d451db2aaa.pdf",
+      "linked_on": "https://www.psoberon.com/esp",
+      "online_pdf_readable": true,
+      "online_page_count": 1,
+      "original_bytes_saved_locally": false,
+      "destination": "public/files/es/panama-2.pdf"
+    },
+    {
+      "id": "panama-3",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_4759e386fb7a4020b47637c62af637b1.pdf",
+      "linked_on": "https://www.psoberon.com/esp",
+      "online_pdf_readable": true,
+      "online_page_count": 2,
+      "original_bytes_saved_locally": false,
+      "destination": "public/files/es/panama-3.pdf"
+    },
+    {
+      "id": "geometry-notes",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_c979e3fe622348a2bebdf354058f1ee0.pdf",
+      "linked_on": "https://www.psoberon.com/student-activities",
+      "online_pdf_readable": true,
+      "online_page_count": 111,
+      "original_bytes_saved_locally": false,
+      "destination": "public/files/combinatorial-geometry-undergraduates.pdf"
+    }
+  ]
+}

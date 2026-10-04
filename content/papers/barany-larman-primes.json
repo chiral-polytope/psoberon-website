@@ -1,0 +1,48 @@
+{
+  "id": "barany-larman-primes",
+  "title": "The topological Bárány–Larman conjecture for prime numbers",
+  "authors": [
+    "Pablo Soberón"
+  ],
+  "year": 2026,
+  "sort_order": 1,
+  "status": "preprint",
+  "reference": "",
+  "type": "research",
+  "topics": [
+    "tverberg",
+    "topological-combinatorics"
+  ],
+  "student_authors": [],
+  "featured": false,
+  "arxiv": "2609.37876",
+  "doi": "",
+  "pdf": "",
+  "summary": "The topological Bárány–Larman conjecture for prime numbers, and counterexamples to extending the optimal colorful Tverberg theorem to prime powers.",
+  "abstract": "The Bárány–Larman conjecture states that for any d+1 sets of r points each in ℝᵈ, considered as color classes, we can partition their union into r rainbow (d+1)-tuples whose convex hulls intersect. We prove that the topological version of this conjecture holds when r is a prime number. We also show that the optimal colorful Tverberg theorem of Blagojević, Matschke, and Ziegler cannot be extended to prime powers.",
+  "image": "",
+  "image_alt": "",
+  "resources": [
+    {
+      "label": "Verification files on arXiv",
+      "url": "https://arxiv.org/abs/2609.37876#anc"
+    }
+  ],
+  "related_papers": [],
+  "agent_note": {
+    "attribution": "author",
+    "text": "",
+    "updated": ""
+  },
+  "methods": [],
+  "related_problems": [],
+  "draft": false,
+  "source_urls": [
+    "https://www.psoberon.com/full-list",
+    "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
+  ],
+  "imported_on": "2026-10-03",
+  "summary_source": "https://arxiv.org/abs/2609.37876",
+  "abstract_source": "https://arxiv.org/abs/2609.37876",
+  "date": "2026-09-29"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "beyond-matroids",
+  "title": "KKM theorems and discrete geometry beyond matroids",
+  "authors": [
+    "Pablo Soberón"
+  ],
+  "year": 2026,
+  "sort_order": 7,
+  "status": "submitted",
+  "reference": "",
+  "type": "research",
+  "topics": [
+    "topological-combinatorics",
+    "helly",
+    "tverberg"
+  ],
+  "student_authors": [],
+  "featured": true,
+  "arxiv": "2606.16832",
+  "doi": "",
+  "pdf": "",
+  "summary": "Selection structures extend the role of color classes and matroids in KKM theorems and discrete geometry.",
+  "abstract": "",
+  "image": "/images/beyond-matroids.webp",
+  "image_alt": "Illustration accompanying KKM theorems and discrete geometry beyond matroids",
+  "resources": [],
+  "related_papers": [],
+  "agent_note": {
+    "attribution": "author",
+    "text": "",
+    "updated": ""
+  },
+  "methods": [],
+  "related_problems": [],
+  "draft": false,
+  "source_urls": [
+    "https://www.psoberon.com/full-list",
+    "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
+  ],
+  "imported_on": "2026-10-03",
+  "summary_source": "https://arxiv.org/abs/2606.16832",
+  "date": "2026-06-15"
+}

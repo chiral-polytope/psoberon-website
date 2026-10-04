@@ -1,0 +1,40 @@
+{
+  "id": "bisecting-parallel-families",
+  "title": "Bisecting masses with families of parallel hyperplanes",
+  "authors": [
+    "Alfredo Hubard",
+    "Pablo Soberón"
+  ],
+  "year": 2024,
+  "sort_order": 24,
+  "status": "submitted",
+  "reference": "",
+  "type": "research",
+  "topics": [
+    "mass-partitions"
+  ],
+  "student_authors": [],
+  "featured": true,
+  "arxiv": "2404.14320",
+  "doi": "",
+  "pdf": "",
+  "summary": "",
+  "abstract": "",
+  "image": "/images/bisecting-parallel-families.webp",
+  "image_alt": "Illustration accompanying Bisecting masses with families of parallel hyperplanes",
+  "resources": [],
+  "related_papers": [],
+  "agent_note": {
+    "attribution": "author",
+    "text": "",
+    "updated": ""
+  },
+  "methods": [],
+  "related_problems": [],
+  "draft": false,
+  "source_urls": [
+    "https://www.psoberon.com/full-list",
+    "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
+  ],
+  "imported_on": "2026-10-03"
+}

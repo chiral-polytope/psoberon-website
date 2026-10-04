@@ -1,0 +1,44 @@
+{
+  "id": "quantitative-continuous-parameters",
+  "title": "Quantitative combinatorial geometry for continuous parameters",
+  "authors": [
+    "Jesús A. De Loera",
+    "Reuben N. La Haye",
+    "David Rolnick",
+    "Pablo Soberón"
+  ],
+  "year": 2017,
+  "sort_order": 51,
+  "status": "published",
+  "reference": "Discrete Comput. Geom. 57 (2), 318–334.",
+  "type": "research",
+  "topics": [
+    "helly",
+    "tverberg",
+    "convexity"
+  ],
+  "student_authors": [],
+  "featured": false,
+  "arxiv": "1603.05523",
+  "doi": "",
+  "pdf": "",
+  "summary": "",
+  "abstract": "",
+  "image": "",
+  "image_alt": "",
+  "resources": [],
+  "related_papers": [],
+  "agent_note": {
+    "attribution": "author",
+    "text": "",
+    "updated": ""
+  },
+  "methods": [],
+  "related_problems": [],
+  "draft": false,
+  "source_urls": [
+    "https://www.psoberon.com/full-list",
+    "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
+  ],
+  "imported_on": "2026-10-03"
+}

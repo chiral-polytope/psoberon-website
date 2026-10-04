@@ -1,0 +1,56 @@
+[
+  {
+    "id": "tverberg",
+    "title": "Tverberg theory",
+    "description": "Partitions, convex hulls, and intersection patterns. Colorful, tolerant, quantitative, and topological versions of Tverberg’s theorem.",
+    "image": "/images/tverberg-fifty-years.webp"
+  },
+  {
+    "id": "mass-partitions",
+    "title": "Mass partitions",
+    "description": "Fairly dividing measures using hyperplanes and other geometric shapes, with connections to topology and convexity.",
+    "image": "/images/mass-partitions.webp"
+  },
+  {
+    "id": "helly",
+    "title": "Helly-type theorems",
+    "description": "How local intersection conditions force global conclusions. Colorful, fractional, and quantitative forms of Helly’s theorem.",
+    "image": "/images/helly-new-variations-survey.webp"
+  },
+  {
+    "id": "topological-combinatorics",
+    "title": "Topological combinatorics",
+    "description": "Using topology to organize combinatorial choices: Borsuk–Ulam and KKM theorems, selection structures, and configuration spaces.",
+    "image": "/images/beyond-matroids.webp"
+  },
+  {
+    "id": "convexity",
+    "title": "Combinatorial convexity",
+    "description": "Transversals, quantitative intersection theorems, convex sets, and geometric depth.",
+    "image": "/images/concave-functions.webp"
+  },
+  {
+    "id": "graph-theory",
+    "title": "Graph theory",
+    "description": "Graph homomorphisms, partition functions, geometric graphs, and crossing numbers.",
+    "image": "/images/graph-homomorphism-partition-function.webp"
+  },
+  {
+    "id": "fair-division",
+    "title": "Fair division",
+    "description": "Envy-free partitions and fair allocations, studied through geometric and topological methods.",
+    "image": "/images/more-participants-than-allocations.webp"
+  },
+  {
+    "id": "discrepancy",
+    "title": "Discrepancy & tolerance",
+    "description": "Connections between discrepancy, probabilistic methods, and geometric partitions that tolerate deletions.",
+    "image": "/images/colorful-tverberg-tolerance.webp"
+  },
+  {
+    "id": "symmetry",
+    "title": "Polytopes & symmetry",
+    "description": "Realizing prescribed symmetry groups and automorphisms in convex polytopes.",
+    "image": "/images/finite-groups-polytopes.webp"
+  }
+]

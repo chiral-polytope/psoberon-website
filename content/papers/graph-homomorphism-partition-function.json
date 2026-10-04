@@ -1,0 +1,40 @@
+{
+  "id": "graph-homomorphism-partition-function",
+  "title": "Computing the Partition Function for Graph Homomorphisms",
+  "authors": [
+    "Alexander Barvinok",
+    "Pablo Soberón"
+  ],
+  "year": 2017,
+  "sort_order": 46,
+  "status": "published",
+  "reference": "Combinatorica 37 (4), 633–650.",
+  "type": "research",
+  "topics": [
+    "graph-theory"
+  ],
+  "student_authors": [],
+  "featured": false,
+  "arxiv": "1410.1842",
+  "doi": "",
+  "pdf": "",
+  "summary": "",
+  "abstract": "",
+  "image": "/images/graph-homomorphism-partition-function.webp",
+  "image_alt": "Illustration accompanying Computing the Partition Function for Graph Homomorphisms",
+  "resources": [],
+  "related_papers": [],
+  "agent_note": {
+    "attribution": "author",
+    "text": "",
+    "updated": ""
+  },
+  "methods": [],
+  "related_problems": [],
+  "draft": false,
+  "source_urls": [
+    "https://www.psoberon.com/full-list",
+    "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
+  ],
+  "imported_on": "2026-10-03"
+}

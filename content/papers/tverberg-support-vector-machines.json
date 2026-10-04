@@ -1,0 +1,39 @@
+{
+  "id": "tverberg-support-vector-machines",
+  "title": "Tverberg's theorem and multi-class support vector machines",
+  "authors": [
+    "Pablo Soberón"
+  ],
+  "year": 2025,
+  "sort_order": 17,
+  "status": "published",
+  "reference": "Found. Data Sci. 7 (2), 568–580.",
+  "type": "research",
+  "topics": [
+    "tverberg"
+  ],
+  "student_authors": [],
+  "featured": false,
+  "arxiv": "2404.16724",
+  "doi": "10.3934/fods.2024039",
+  "pdf": "",
+  "summary": "",
+  "abstract": "",
+  "image": "/images/tverberg-support-vector-machines.webp",
+  "image_alt": "Illustration accompanying Tverberg's theorem and multi-class support vector machines",
+  "resources": [],
+  "related_papers": [],
+  "agent_note": {
+    "attribution": "author",
+    "text": "",
+    "updated": ""
+  },
+  "methods": [],
+  "related_problems": [],
+  "draft": false,
+  "source_urls": [
+    "https://www.psoberon.com/full-list",
+    "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
+  ],
+  "imported_on": "2026-10-03"
+}

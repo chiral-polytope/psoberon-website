@@ -1,0 +1,42 @@
+{
+  "id": "colorful-hyperplane-counterexamples",
+  "title": "Counterexamples to the Colorful Tverberg Conjecture for Hyperplanes",
+  "authors": [
+    "João Pedro Carvalho",
+    "Pablo Soberón"
+  ],
+  "year": 2022,
+  "sort_order": 28,
+  "status": "published",
+  "reference": "Acta Mathematica Hungarica 167, 385–392.",
+  "type": "research",
+  "topics": [
+    "tverberg"
+  ],
+  "student_authors": [
+    "João Pedro Carvalho"
+  ],
+  "featured": false,
+  "arxiv": "2108.07680",
+  "doi": "",
+  "pdf": "",
+  "summary": "",
+  "abstract": "",
+  "image": "/images/colorful-hyperplane-counterexamples.webp",
+  "image_alt": "Illustration accompanying Counterexamples to the Colorful Tverberg Conjecture for Hyperplanes",
+  "resources": [],
+  "related_papers": [],
+  "agent_note": {
+    "attribution": "author",
+    "text": "",
+    "updated": ""
+  },
+  "methods": [],
+  "related_problems": [],
+  "draft": false,
+  "source_urls": [
+    "https://www.psoberon.com/full-list",
+    "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
+  ],
+  "imported_on": "2026-10-03"
+}

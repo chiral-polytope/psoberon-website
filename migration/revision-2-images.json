@@ -1,0 +1,26 @@
+[
+  {
+    "source_attachment": "portrait.jpg",
+    "saved_as": "public/images/portrait.jpg",
+    "bytes_unchanged": true,
+    "sha256": "a4e8eb0069290f50de94ac9ecab8e509d3246e4a483e03711830796765ac15bd"
+  },
+  {
+    "source_attachment": "back.png",
+    "saved_as": "public/images/back.png",
+    "bytes_unchanged": true,
+    "sha256": "697191194a097f7681093e6a2fbdc818605a72b4d961789948849d7b4dd7c30b"
+  },
+  {
+    "source_attachment": "soberonita.jpeg",
+    "saved_as": "public/images/soberonita.jpeg",
+    "bytes_unchanged": true,
+    "sha256": "ebeae8e78babf5ebe3aa249bbaf7b9fb43b0d844dac846916ed597c5eaabf428"
+  },
+  {
+    "source_attachment": "brancusi.jpeg",
+    "saved_as": "source-assets/brancusi.jpeg",
+    "bytes_unchanged": true,
+    "sha256": "572cdf2072fa65afd1b7855c03136d220cb487c5ff37b13e166cf6848108d8fb"
+  }
+]

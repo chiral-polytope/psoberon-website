@@ -1,0 +1,43 @@
+{
+  "id": "complex-tverberg-vrecica",
+  "title": "Complex analogues of the Tverberg–Vrećica conjecture and central transversal theorems",
+  "authors": [
+    "Nikola Sadovek",
+    "Pablo Soberón"
+  ],
+  "year": 2024,
+  "sort_order": 23,
+  "status": "published",
+  "reference": "Trans. Amer. Math. Soc. 379 (2026), no. 5, 3665–3691.",
+  "type": "research",
+  "topics": [
+    "mass-partitions",
+    "tverberg",
+    "topological-combinatorics"
+  ],
+  "student_authors": [],
+  "featured": true,
+  "arxiv": "2408.14337",
+  "doi": "",
+  "pdf": "",
+  "summary": "",
+  "abstract": "",
+  "image": "",
+  "image_alt": "",
+  "resources": [],
+  "related_papers": [],
+  "agent_note": {
+    "attribution": "author",
+    "text": "",
+    "updated": ""
+  },
+  "methods": [],
+  "related_problems": [],
+  "draft": false,
+  "source_urls": [
+    "https://www.psoberon.com/full-list",
+    "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
+  ],
+  "imported_on": "2026-10-03",
+  "publication_year": 2026
+}

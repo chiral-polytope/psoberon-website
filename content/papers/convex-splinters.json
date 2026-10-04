@@ -1,0 +1,44 @@
+{
+  "id": "convex-splinters",
+  "title": "Variations of Helly's theorem for convex splinters",
+  "authors": [
+    "Pablo Soberón",
+    "Iris Ye"
+  ],
+  "year": 2026,
+  "sort_order": 8,
+  "status": "preprint",
+  "reference": "",
+  "type": "research",
+  "topics": [
+    "helly",
+    "tverberg",
+    "convexity"
+  ],
+  "student_authors": [
+    "Iris Ye"
+  ],
+  "featured": false,
+  "arxiv": "2606.23437",
+  "doi": "",
+  "pdf": "",
+  "summary": "",
+  "abstract": "",
+  "image": "",
+  "image_alt": "",
+  "resources": [],
+  "related_papers": [],
+  "agent_note": {
+    "attribution": "author",
+    "text": "",
+    "updated": ""
+  },
+  "methods": [],
+  "related_problems": [],
+  "draft": false,
+  "source_urls": [
+    "https://www.psoberon.com/full-list",
+    "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
+  ],
+  "imported_on": "2026-10-03"
+}

@@ -1,0 +1,48 @@
+{
+  "source": "https://www.psoberon.com/cv-about-me",
+  "institutions": [
+    {
+      "name": "UNAM",
+      "location": "Mexico City, Mexico"
+    },
+    {
+      "name": "University College London",
+      "location": "London, United Kingdom"
+    },
+    {
+      "name": "University of Michigan",
+      "location": "Ann Arbor, MI, USA"
+    },
+    {
+      "name": "Northeastern University",
+      "location": "Boston, MA, USA"
+    }
+  ],
+  "education": [
+    {
+      "dates": "2006–2010",
+      "institution": "UNAM",
+      "qualification": "Mathematics major",
+      "advisors": "Thesis advisor: Luis Montejano",
+      "logo": "/images/unam.png"
+    },
+    {
+      "dates": "2010–2013",
+      "institution": "University College London",
+      "qualification": "Ph.D. in Mathematics",
+      "advisors": "Advisors: Imre Bárány and Keith Ball",
+      "logo": "/images/ucl.png"
+    }
+  ],
+  "soberonita": {
+    "title": "La Soberonita",
+    "image": "/images/soberonita.jpeg",
+    "alt": "A turquoise, twisting sculpture on a dark rectangular base.",
+    "description": "A replica of “La Soberonita”, designed by the sculptor Sebastian to honor my grandfather. The 17-meter original can be found at the National Institute of Genomic Medicine in Mexico City."
+  },
+  "quote": {
+    "text": "Just as every human undertaking pursues certain objects, so also mathematical research requires its problems. It is by the solution of problems that the investigator tests the temper of his steel; he finds new methods and new outlooks, and gains a wider and freer horizon.",
+    "author": "David Hilbert",
+    "year": 1900
+  }
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "id": "bugcat-2026",
+    "title": "BUGCAT conference",
+    "start": "2026-11-21",
+    "end": "2026-11-22",
+    "location": "Binghamton University",
+    "url": "https://sites.google.com/binghamton.edu/bugcat-website/home",
+    "source_url": "https://www.psoberon.com/",
+    "draft": false
+  },
+  {
+    "id": "reu-2026",
+    "title": "New York Discrete Mathematics REU",
+    "start": "2026-06-08",
+    "end": "2026-07-31",
+    "location": "New York, NY",
+    "url": "https://geometrynyc.wixsite.com/home/combinatorics-reu",
+    "draft": false
+  }
+]

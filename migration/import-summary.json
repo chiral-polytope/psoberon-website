@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-03",
+  "papers": 63,
+  "student_papers": 17,
+  "student_authors": 17,
+  "remote_documents": 27,
+  "sources": [
+    "https://www.psoberon.com/",
+    "https://www.psoberon.com/full-list",
+    "https://www.psoberon.com/student-activities",
+    "https://www.psoberon.com/collaborators",
+    "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
+  ],
+  "notes": [
+    "Full-list years preserved even where different from publication year.",
+    "Alexander Magazinov added to the Dol’nikov paper from CV; absent in full list.",
+    "Per-paper student relationships extended with public CV and collaborator markers.",
+    "New topic assignments and overview prose require owner review.",
+    "No agent importance descriptions fabricated.",
+    "No new paper-explainer recordings supplied.",
+    "2020 Frick–Soberón preprint carries the public arXiv gap notice.",
+    "Archive notes have 77 pages and PDF metadata dated January 2022; live linked notes have 111 pages. The older supplied copy is labeled as an archive; current notes remain an upstream link until import."
+  ]
+}

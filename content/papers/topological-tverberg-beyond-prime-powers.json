@@ -1,0 +1,43 @@
+{
+  "id": "topological-tverberg-beyond-prime-powers",
+  "title": "The topological Tverberg problem beyond prime powers",
+  "authors": [
+    "Florian Frick",
+    "Pablo Soberón"
+  ],
+  "year": 2020,
+  "sort_order": 38,
+  "status": "preprint",
+  "reference": "",
+  "type": "research",
+  "topics": [
+    "tverberg",
+    "topological-combinatorics"
+  ],
+  "student_authors": [],
+  "featured": false,
+  "arxiv": "2005.05251",
+  "doi": "",
+  "pdf": "",
+  "summary": "",
+  "abstract": "",
+  "image": "",
+  "image_alt": "",
+  "resources": [],
+  "related_papers": [],
+  "agent_note": {
+    "attribution": "author",
+    "text": "",
+    "updated": ""
+  },
+  "methods": [],
+  "related_problems": [],
+  "draft": false,
+  "source_urls": [
+    "https://www.psoberon.com/full-list",
+    "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
+  ],
+  "imported_on": "2026-10-03",
+  "notice": "The authors’ arXiv v2 comments report a gap in the proof of Theorem 1.1. The revised manuscript explains the gap; the original main theorem is not presented here as established.",
+  "notice_source": "https://arxiv.org/abs/2005.05251v2"
+}

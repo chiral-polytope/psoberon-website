@@ -1,0 +1,218 @@
+[
+  {
+    "id": "cv-full",
+    "title": "Full curriculum vitae",
+    "url": "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf",
+    "destination": "public/files/cv.pdf",
+    "original_path": "/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf",
+    "required": true
+  },
+  {
+    "id": "cv-short",
+    "title": "Short curriculum vitae",
+    "url": "https://www.psoberon.com/_files/ugd/fca340_d6a731a15987438c85b5f130639304d8.pdf",
+    "destination": "public/files/cv-short.pdf",
+    "original_path": "/_files/ugd/fca340_d6a731a15987438c85b5f130639304d8.pdf",
+    "required": true
+  },
+  {
+    "id": "analysis-supplement",
+    "title": "Construction of the natural numbers",
+    "url": "https://www.psoberon.com/_files/ugd/fca340_a37ff234a9cb41038c2c1b9c3300543c.pdf",
+    "destination": "public/files/analysis-supplement.pdf",
+    "original_path": "/_files/ugd/fca340_a37ff234a9cb41038c2c1b9c3300543c.pdf",
+    "required": true
+  },
+  {
+    "id": "slides-stiefel",
+    "title": "Stiefel manifolds and mass partitions — slides",
+    "url": "https://www.psoberon.com/_files/ugd/fca340_ff0ea3a657dc42559bdd84207108a0e4.pdf",
+    "destination": "public/files/slides/stiefel-manifolds.pdf",
+    "original_path": "/_files/ugd/fca340_ff0ea3a657dc42559bdd84207108a0e4.pdf",
+    "required": true
+  },
+  {
+    "id": "slides-linear-tverberg",
+    "title": "Linear versions of Tverberg’s theorem — slides",
+    "url": "https://www.psoberon.com/_files/ugd/fca340_1a8573809ea2457a96260d8ff5374692.pdf",
+    "destination": "public/files/slides/linear-tverberg.pdf",
+    "original_path": "/_files/ugd/fca340_1a8573809ea2457a96260d8ff5374692.pdf",
+    "required": true
+  },
+  {
+    "id": "fair-division-es",
+    "title": "Notas sobre distribuciones justas",
+    "url": "https://www.psoberon.com/_files/ugd/fca340_df71c1f840db4eec9f037857cca9b170.pdf",
+    "destination": "public/files/es/distribuciones-justas.pdf",
+    "original_path": "/_files/ugd/fca340_df71c1f840db4eec9f037857cca9b170.pdf",
+    "required": true
+  },
+  {
+    "id": "putnam-1",
+    "title": "2017 Putnam set 1",
+    "url": "https://www.psoberon.com/_files/ugd/fca340_3c12bc0eb68543df892fd7cdaa6aa74b.pdf",
+    "destination": "public/files/putnam/putnam-1.pdf",
+    "original_path": "/_files/ugd/fca340_3c12bc0eb68543df892fd7cdaa6aa74b.pdf",
+    "required": true
+  },
+  {
+    "id": "putnam-1-hints",
+    "title": "2017 Putnam set 1 — hints",
+    "url": "https://www.psoberon.com/_files/ugd/fca340_92f4ea7c5e444a8abf074518895e2271.pdf",
+    "destination": "public/files/putnam/putnam-1-hints.pdf",
+    "original_path": "/_files/ugd/fca340_92f4ea7c5e444a8abf074518895e2271.pdf",
+    "required": true
+  },
+  {
+    "id": "putnam-2",
+    "title": "2017 Putnam set 2",
+    "url": "https://www.psoberon.com/_files/ugd/fca340_50b7a68c519c462699df30891f61eca3.pdf",
+    "destination": "public/files/putnam/putnam-2.pdf",
+    "original_path": "/_files/ugd/fca340_50b7a68c519c462699df30891f61eca3.pdf",
+    "required": true
+  },
+  {
+    "id": "putnam-2-hints",
+    "title": "2017 Putnam set 2 — hints",
+    "url": "https://www.psoberon.com/_files/ugd/fca340_412947c97d754a309e1addc911906767.pdf",
+    "destination": "public/files/putnam/putnam-2-hints.pdf",
+    "original_path": "/_files/ugd/fca340_412947c97d754a309e1addc911906767.pdf",
+    "required": true
+  },
+  {
+    "id": "putnam-3",
+    "title": "2017 Putnam set 3",
+    "url": "https://www.psoberon.com/_files/ugd/fca340_4cb1469f3bd54619ad7267b0278d9d87.pdf",
+    "destination": "public/files/putnam/putnam-3.pdf",
+    "original_path": "/_files/ugd/fca340_4cb1469f3bd54619ad7267b0278d9d87.pdf",
+    "required": true
+  },
+  {
+    "id": "putnam-3-hints",
+    "title": "2017 Putnam set 3 — hints",
+    "url": "https://www.psoberon.com/_files/ugd/fca340_d4617a0e7cc24699965d5ce76d139ef3.pdf",
+    "destination": "public/files/putnam/putnam-3-hints.pdf",
+    "original_path": "/_files/ugd/fca340_d4617a0e7cc24699965d5ce76d139ef3.pdf",
+    "required": true
+  },
+  {
+    "id": "putnam-4",
+    "title": "2017 Putnam set 4",
+    "url": "https://www.psoberon.com/_files/ugd/fca340_a183382333c442c6ac5664638a93bc59.pdf",
+    "destination": "public/files/putnam/putnam-4.pdf",
+    "original_path": "/_files/ugd/fca340_a183382333c442c6ac5664638a93bc59.pdf",
+    "required": true
+  },
+  {
+    "id": "putnam-4-hints",
+    "title": "2017 Putnam set 4 — hints",
+    "url": "https://www.psoberon.com/_files/ugd/fca340_84eab54446d345d784876fc761f3c29e.pdf",
+    "destination": "public/files/putnam/putnam-4-hints.pdf",
+    "original_path": "/_files/ugd/fca340_84eab54446d345d784876fc761f3c29e.pdf",
+    "required": true
+  },
+  {
+    "id": "putnam-5",
+    "title": "2017 Putnam set 5",
+    "url": "https://www.psoberon.com/_files/ugd/fca340_eba633aa737b4114878d347db6b21c51.pdf",
+    "destination": "public/files/putnam/putnam-5.pdf",
+    "original_path": "/_files/ugd/fca340_eba633aa737b4114878d347db6b21c51.pdf",
+    "required": true
+  },
+  {
+    "id": "putnam-5-hints",
+    "title": "2017 Putnam set 5 — hints",
+    "url": "https://www.psoberon.com/_files/ugd/fca340_748ce45b011f48df8d78ef6fc99e5f78.pdf",
+    "destination": "public/files/putnam/putnam-5-hints.pdf",
+    "original_path": "/_files/ugd/fca340_748ce45b011f48df8d78ef6fc99e5f78.pdf",
+    "required": true
+  },
+  {
+    "id": "putnam-6",
+    "title": "2017 Putnam set 6",
+    "url": "https://www.psoberon.com/_files/ugd/fca340_0216a65e139448b28e3bde9cba83489a.pdf",
+    "destination": "public/files/putnam/putnam-6.pdf",
+    "original_path": "/_files/ugd/fca340_0216a65e139448b28e3bde9cba83489a.pdf",
+    "required": true
+  },
+  {
+    "id": "putnam-6-hints",
+    "title": "2017 Putnam set 6 — hints",
+    "url": "https://www.psoberon.com/_files/ugd/fca340_07620f9290f04c7f832603ad106a1dfe.pdf",
+    "destination": "public/files/putnam/putnam-6-hints.pdf",
+    "original_path": "/_files/ugd/fca340_07620f9290f04c7f832603ad106a1dfe.pdf",
+    "required": true
+  },
+  {
+    "id": "putnam-7",
+    "title": "2017 Putnam set 7",
+    "url": "https://www.psoberon.com/_files/ugd/fca340_526b4ac13cbf4934bcc4c732825392d9.pdf",
+    "destination": "public/files/putnam/putnam-7.pdf",
+    "original_path": "/_files/ugd/fca340_526b4ac13cbf4934bcc4c732825392d9.pdf",
+    "required": true
+  },
+  {
+    "id": "putnam-7-hints",
+    "title": "2017 Putnam set 7 — hints",
+    "url": "https://www.psoberon.com/_files/ugd/fca340_d14444e44a5b48e190d88646460c01f9.pdf",
+    "destination": "public/files/putnam/putnam-7-hints.pdf",
+    "original_path": "/_files/ugd/fca340_d14444e44a5b48e190d88646460c01f9.pdf",
+    "required": true
+  },
+  {
+    "id": "putnam-8",
+    "title": "2017 Putnam set 8",
+    "url": "https://www.psoberon.com/_files/ugd/fca340_0852459e64fd40c7afe96ded75b231bd.pdf",
+    "destination": "public/files/putnam/putnam-8.pdf",
+    "original_path": "/_files/ugd/fca340_0852459e64fd40c7afe96ded75b231bd.pdf",
+    "required": true
+  },
+  {
+    "id": "putnam-8-hints",
+    "title": "2017 Putnam set 8 — hints",
+    "url": "https://www.psoberon.com/_files/ugd/fca340_b994d7df807348448007b086f0a4e7f1.pdf",
+    "destination": "public/files/putnam/putnam-8-hints.pdf",
+    "original_path": "/_files/ugd/fca340_b994d7df807348448007b086f0a4e7f1.pdf",
+    "required": true
+  },
+  {
+    "id": "putnam-9",
+    "title": "2017 Putnam set 9",
+    "url": "https://www.psoberon.com/_files/ugd/fca340_c2a8a05c4a8241cdbc2c4c3f82db1686.pdf",
+    "destination": "public/files/putnam/putnam-9.pdf",
+    "original_path": "/_files/ugd/fca340_c2a8a05c4a8241cdbc2c4c3f82db1686.pdf",
+    "required": true
+  },
+  {
+    "id": "panama-1",
+    "title": "Panamá: avanzados, lista 1",
+    "url": "https://www.psoberon.com/_files/ugd/fca340_da180a8e042c44fd8e1a5eb42e77db06.pdf",
+    "destination": "public/files/es/panama-1.pdf",
+    "original_path": "/_files/ugd/fca340_da180a8e042c44fd8e1a5eb42e77db06.pdf",
+    "required": true
+  },
+  {
+    "id": "panama-2",
+    "title": "Panamá: avanzados, lista 2",
+    "url": "https://www.psoberon.com/_files/ugd/fca340_785cfadb34b64836b5d5a7d451db2aaa.pdf",
+    "destination": "public/files/es/panama-2.pdf",
+    "original_path": "/_files/ugd/fca340_785cfadb34b64836b5d5a7d451db2aaa.pdf",
+    "required": true
+  },
+  {
+    "id": "panama-3",
+    "title": "Panamá: iniciales, lista 1",
+    "url": "https://www.psoberon.com/_files/ugd/fca340_4759e386fb7a4020b47637c62af637b1.pdf",
+    "destination": "public/files/es/panama-3.pdf",
+    "original_path": "/_files/ugd/fca340_4759e386fb7a4020b47637c62af637b1.pdf",
+    "required": true
+  },
+  {
+    "id": "geometry-notes",
+    "title": "Combinatorial Geometry notes — current website version (111 pages)",
+    "url": "https://www.psoberon.com/_files/ugd/fca340_c979e3fe622348a2bebdf354058f1ee0.pdf",
+    "destination": "public/files/combinatorial-geometry-undergraduates.pdf",
+    "original_path": "/_files/ugd/fca340_c979e3fe622348a2bebdf354058f1ee0.pdf",
+    "required": true
+  }
+]

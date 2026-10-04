@@ -1,0 +1,39 @@
+{
+  "id": "tverberg-weak-nets",
+  "title": "Tverberg partitions as weak epsilon-nets",
+  "authors": [
+    "Pablo Soberón"
+  ],
+  "year": 2019,
+  "sort_order": 40,
+  "status": "published",
+  "reference": "Combinatorica 39 (2), 447–458.",
+  "type": "research",
+  "topics": [
+    "tverberg"
+  ],
+  "student_authors": [],
+  "featured": false,
+  "arxiv": "1711.11496",
+  "doi": "",
+  "pdf": "",
+  "summary": "",
+  "abstract": "",
+  "image": "/images/tverberg-weak-nets.webp",
+  "image_alt": "Illustration accompanying Tverberg partitions as weak epsilon-nets",
+  "resources": [],
+  "related_papers": [],
+  "agent_note": {
+    "attribution": "author",
+    "text": "",
+    "updated": ""
+  },
+  "methods": [],
+  "related_problems": [],
+  "draft": false,
+  "source_urls": [
+    "https://www.psoberon.com/full-list",
+    "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
+  ],
+  "imported_on": "2026-10-03"
+}

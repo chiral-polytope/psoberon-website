@@ -1,0 +1,43 @@
+{
+  "id": "tverberg-disks-hamiltonian",
+  "title": "Tverberg's theorem, disks, and Hamiltonian cycles",
+  "authors": [
+    "Pablo Soberón",
+    "Yaqian Tang"
+  ],
+  "year": 2021,
+  "sort_order": 34,
+  "status": "published",
+  "reference": "Ann. Comb. 25, 995–1005.",
+  "type": "research",
+  "topics": [
+    "tverberg",
+    "graph-theory"
+  ],
+  "student_authors": [
+    "Yaqian Tang"
+  ],
+  "featured": false,
+  "arxiv": "2011.12218",
+  "doi": "",
+  "pdf": "",
+  "summary": "",
+  "abstract": "",
+  "image": "/images/tverberg-disks-hamiltonian.webp",
+  "image_alt": "Illustration accompanying Tverberg's theorem, disks, and Hamiltonian cycles",
+  "resources": [],
+  "related_papers": [],
+  "agent_note": {
+    "attribution": "author",
+    "text": "",
+    "updated": ""
+  },
+  "methods": [],
+  "related_problems": [],
+  "draft": false,
+  "source_urls": [
+    "https://www.psoberon.com/full-list",
+    "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
+  ],
+  "imported_on": "2026-10-03"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "high-dimensional-envy-free",
+  "title": "High-dimensional envy-free partitions",
+  "authors": [
+    "Christina Yu",
+    "Pablo Soberón"
+  ],
+  "year": 2026,
+  "sort_order": 11,
+  "status": "published",
+  "reference": "Comb. Theory 6, no. 1, Paper No. 11, 19 pp.",
+  "type": "research",
+  "topics": [
+    "fair-division",
+    "topological-combinatorics"
+  ],
+  "student_authors": [
+    "Christina Yu"
+  ],
+  "featured": false,
+  "arxiv": "2311.09905",
+  "doi": "",
+  "pdf": "",
+  "summary": "",
+  "abstract": "",
+  "image": "/images/high-dimensional-envy-free.webp",
+  "image_alt": "Illustration accompanying High-dimensional envy-free partitions",
+  "resources": [],
+  "related_papers": [],
+  "agent_note": {
+    "attribution": "author",
+    "text": "",
+    "updated": ""
+  },
+  "methods": [],
+  "related_problems": [],
+  "draft": false,
+  "source_urls": [
+    "https://www.psoberon.com/full-list",
+    "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
+  ],
+  "imported_on": "2026-10-03"
+}

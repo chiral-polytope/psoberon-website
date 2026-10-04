@@ -1,0 +1,43 @@
+{
+  "id": "diameter-helly-melange",
+  "title": "A mélange of diameter Helly-type theorems",
+  "authors": [
+    "Travis Dillon",
+    "Pablo Soberón"
+  ],
+  "year": 2021,
+  "sort_order": 36,
+  "status": "published",
+  "reference": "SIAM J. Discrete Math. 35 (3), 1615–1627.",
+  "type": "research",
+  "topics": [
+    "helly",
+    "convexity"
+  ],
+  "student_authors": [
+    "Travis Dillon"
+  ],
+  "featured": false,
+  "arxiv": "2008.13737",
+  "doi": "",
+  "pdf": "",
+  "summary": "",
+  "abstract": "",
+  "image": "/images/diameter-helly-melange.webp",
+  "image_alt": "Illustration accompanying A mélange of diameter Helly-type theorems",
+  "resources": [],
+  "related_papers": [],
+  "agent_note": {
+    "attribution": "author",
+    "text": "",
+    "updated": ""
+  },
+  "methods": [],
+  "related_problems": [],
+  "draft": false,
+  "source_urls": [
+    "https://www.psoberon.com/full-list",
+    "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
+  ],
+  "imported_on": "2026-10-03"
+}

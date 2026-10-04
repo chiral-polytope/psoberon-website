@@ -1,0 +1,42 @@
+{
+  "id": "finite-groups-polytopes",
+  "title": "Finite groups as prescribed polytopal symmetries",
+  "authors": [
+    "Alexandru Chirvasitu",
+    "Frieder Ladisch",
+    "Pablo Soberón"
+  ],
+  "year": 2021,
+  "sort_order": 35,
+  "status": "published",
+  "reference": "Israel J. Math. 245 (1), 75–91.",
+  "type": "research",
+  "topics": [
+    "symmetry",
+    "convexity"
+  ],
+  "student_authors": [],
+  "featured": false,
+  "arxiv": "1907.10022",
+  "doi": "",
+  "pdf": "",
+  "summary": "",
+  "abstract": "",
+  "image": "/images/finite-groups-polytopes.webp",
+  "image_alt": "Illustration accompanying Finite groups as prescribed polytopal symmetries",
+  "resources": [],
+  "related_papers": [],
+  "agent_note": {
+    "attribution": "author",
+    "text": "",
+    "updated": ""
+  },
+  "methods": [],
+  "related_problems": [],
+  "draft": false,
+  "source_urls": [
+    "https://www.psoberon.com/full-list",
+    "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
+  ],
+  "imported_on": "2026-10-03"
+}

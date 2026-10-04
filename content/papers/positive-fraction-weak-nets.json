@@ -1,0 +1,41 @@
+{
+  "id": "positive-fraction-weak-nets",
+  "title": "Positive-fraction intersection results and variations of weak epsilon-nets",
+  "authors": [
+    "Alexander Magazinov",
+    "Pablo Soberón"
+  ],
+  "year": 2017,
+  "sort_order": 52,
+  "status": "published",
+  "reference": "Monatshefte für Mathematik 183 (1), 165–176.",
+  "type": "research",
+  "topics": [
+    "helly",
+    "convexity"
+  ],
+  "student_authors": [],
+  "featured": false,
+  "arxiv": "1506.02191",
+  "doi": "",
+  "pdf": "",
+  "summary": "",
+  "abstract": "",
+  "image": "/images/positive-fraction-weak-nets.webp",
+  "image_alt": "Illustration accompanying Positive-fraction intersection results and variations of weak epsilon-nets",
+  "resources": [],
+  "related_papers": [],
+  "agent_note": {
+    "attribution": "author",
+    "text": "",
+    "updated": ""
+  },
+  "methods": [],
+  "related_problems": [],
+  "draft": false,
+  "source_urls": [
+    "https://www.psoberon.com/full-list",
+    "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
+  ],
+  "imported_on": "2026-10-03"
+}

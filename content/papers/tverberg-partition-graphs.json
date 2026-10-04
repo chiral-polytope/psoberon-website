@@ -1,0 +1,43 @@
+{
+  "id": "tverberg-partition-graphs",
+  "title": "Tverberg Partition Graphs",
+  "authors": [
+    "Deborah Oliveros",
+    "Érika Roldán",
+    "Pablo Soberón",
+    "Antonio J. Torres"
+  ],
+  "year": 2025,
+  "sort_order": 15,
+  "status": "published",
+  "reference": "SIAM J. Discrete Math. 39 (2), 863–880.",
+  "type": "research",
+  "topics": [
+    "tverberg",
+    "graph-theory"
+  ],
+  "student_authors": [],
+  "featured": false,
+  "arxiv": "2310.08563",
+  "doi": "",
+  "pdf": "",
+  "summary": "",
+  "abstract": "",
+  "image": "/images/tverberg-partition-graphs.webp",
+  "image_alt": "Illustration accompanying Tverberg Partition Graphs",
+  "resources": [],
+  "related_papers": [],
+  "agent_note": {
+    "attribution": "author",
+    "text": "",
+    "updated": ""
+  },
+  "methods": [],
+  "related_problems": [],
+  "draft": false,
+  "source_urls": [
+    "https://www.psoberon.com/full-list",
+    "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
+  ],
+  "imported_on": "2026-10-03"
+}

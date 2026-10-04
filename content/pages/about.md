@@ -1,0 +1,1 @@
+I am originally from Cuernavaca, Mexico. I have lived abroad (UK and US) since I finished college in Mexico. Currently, I am an associate professor at Baruch College and at The Graduate Center, CUNY. Before that, I was an Andrei Zelevinsky postdoctoral research instructor at Northeastern University. I enjoy a good cup of coffee and an occasional Math Olympiad problem.

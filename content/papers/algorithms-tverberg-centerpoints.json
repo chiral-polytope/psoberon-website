@@ -1,0 +1,40 @@
+{
+  "id": "algorithms-tverberg-centerpoints",
+  "title": "Algorithms for Tverberg's theorem via centerpoint theorems",
+  "authors": [
+    "David Rolnick",
+    "Pablo Soberón"
+  ],
+  "year": 2016,
+  "sort_order": 53,
+  "status": "preprint",
+  "reference": "",
+  "type": "research",
+  "topics": [
+    "tverberg"
+  ],
+  "student_authors": [],
+  "featured": false,
+  "arxiv": "1601.03083",
+  "doi": "",
+  "pdf": "",
+  "summary": "",
+  "abstract": "",
+  "image": "",
+  "image_alt": "",
+  "resources": [],
+  "related_papers": [],
+  "agent_note": {
+    "attribution": "author",
+    "text": "",
+    "updated": ""
+  },
+  "methods": [],
+  "related_problems": [],
+  "draft": false,
+  "source_urls": [
+    "https://www.psoberon.com/full-list",
+    "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
+  ],
+  "imported_on": "2026-10-03"
+}

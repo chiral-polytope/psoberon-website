@@ -1,0 +1,44 @@
+{
+  "id": "quantitative-tverberg-lattices",
+  "title": "Quantitative Tverberg theorems over lattices and other discrete sets",
+  "authors": [
+    "Jesús A. De Loera",
+    "Reuben N. La Haye",
+    "David Rolnick",
+    "Pablo Soberón"
+  ],
+  "year": 2017,
+  "sort_order": 48,
+  "status": "published",
+  "reference": "Discrete Comput. Geom. 58 (2), 435–458.",
+  "type": "research",
+  "topics": [
+    "tverberg",
+    "helly",
+    "convexity"
+  ],
+  "student_authors": [],
+  "featured": false,
+  "arxiv": "1603.05525",
+  "doi": "",
+  "pdf": "",
+  "summary": "",
+  "abstract": "",
+  "image": "",
+  "image_alt": "",
+  "resources": [],
+  "related_papers": [],
+  "agent_note": {
+    "attribution": "author",
+    "text": "",
+    "updated": ""
+  },
+  "methods": [],
+  "related_problems": [],
+  "draft": false,
+  "source_urls": [
+    "https://www.psoberon.com/full-list",
+    "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
+  ],
+  "imported_on": "2026-10-03"
+}

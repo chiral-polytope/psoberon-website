@@ -1,0 +1,47 @@
+{
+  "id": "four-hyperplanes",
+  "title": "Four hyperplanes do not always equipartition a mass in ℝ⁴",
+  "authors": [
+    "Pablo Soberón"
+  ],
+  "year": 2026,
+  "sort_order": 4,
+  "status": "submitted",
+  "reference": "",
+  "type": "research",
+  "topics": [
+    "mass-partitions"
+  ],
+  "student_authors": [],
+  "featured": true,
+  "arxiv": "2608.23312",
+  "doi": "",
+  "pdf": "",
+  "summary": "A smooth positive density in four dimensions that admits no equipartition into sixteen equal parts by four affine hyperplanes.",
+  "abstract": "We construct a smooth strictly positive density in ℝ⁴ that cannot be divided into 16 parts of the same size by four affine hyperplanes. This settles the last open case of Grünbaum's 1960 conjecture and disproves Ramos' general conjecture on hyperplane equipartitions.\n\nWe reduce the construction to finding two homogeneous polynomials in four variables, of degrees three and four, whose multilinear coefficients cannot vanish simultaneously after any orthogonal change of coordinates. We give two proofs of this nonvanishing result. The first uses a local perturbation argument. The second reduces it to the absence of a common zero for five explicit polynomials on [−1,1]⁶, verified by a computer-assisted Bernstein subdivision argument.",
+  "image": "",
+  "image_alt": "",
+  "resources": [
+    {
+      "label": "Verification files on arXiv",
+      "url": "https://arxiv.org/abs/2608.23312#anc"
+    }
+  ],
+  "related_papers": [],
+  "agent_note": {
+    "attribution": "author",
+    "text": "",
+    "updated": ""
+  },
+  "methods": [],
+  "related_problems": [],
+  "draft": false,
+  "source_urls": [
+    "https://www.psoberon.com/full-list",
+    "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
+  ],
+  "imported_on": "2026-10-03",
+  "summary_source": "https://arxiv.org/abs/2608.23312",
+  "abstract_source": "https://arxiv.org/abs/2608.23312",
+  "date": "2026-08-24"
+}

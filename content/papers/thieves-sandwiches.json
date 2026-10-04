@@ -1,0 +1,41 @@
+{
+  "id": "thieves-sandwiches",
+  "title": "Thieves can make sandwiches",
+  "authors": [
+    "Pavle V. M. Blagojević",
+    "Pablo Soberón"
+  ],
+  "year": 2018,
+  "sort_order": 45,
+  "status": "published",
+  "reference": "Bull. London Math. Soc. 50 (1), 108–123.",
+  "type": "research",
+  "topics": [
+    "mass-partitions",
+    "topological-combinatorics"
+  ],
+  "student_authors": [],
+  "featured": false,
+  "arxiv": "1706.03640",
+  "doi": "",
+  "pdf": "",
+  "summary": "",
+  "abstract": "",
+  "image": "/images/mass-partitions-survey.webp",
+  "image_alt": "Illustration accompanying Thieves can make sandwiches",
+  "resources": [],
+  "related_papers": [],
+  "agent_note": {
+    "attribution": "author",
+    "text": "",
+    "updated": ""
+  },
+  "methods": [],
+  "related_problems": [],
+  "draft": false,
+  "source_urls": [
+    "https://www.psoberon.com/full-list",
+    "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
+  ],
+  "imported_on": "2026-10-03"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "mass-partitions-survey",
+  "title": "A survey of mass partitions",
+  "authors": [
+    "Edgardo Roldán-Pensado",
+    "Pablo Soberón"
+  ],
+  "year": 2022,
+  "sort_order": 29,
+  "status": "published",
+  "reference": "Bull. Amer. Math. Soc. 59 (2), 227–267.",
+  "type": "survey",
+  "topics": [
+    "mass-partitions"
+  ],
+  "student_authors": [],
+  "featured": false,
+  "arxiv": "2010.00478",
+  "doi": "",
+  "pdf": "",
+  "summary": "",
+  "abstract": "",
+  "image": "/images/mass-partitions-survey.webp",
+  "image_alt": "Illustration accompanying A survey of mass partitions",
+  "resources": [],
+  "related_papers": [],
+  "agent_note": {
+    "attribution": "author",
+    "text": "",
+    "updated": ""
+  },
+  "methods": [],
+  "related_problems": [],
+  "draft": false,
+  "source_urls": [
+    "https://www.psoberon.com/full-list",
+    "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
+  ],
+  "imported_on": "2026-10-03"
+}

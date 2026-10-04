@@ -1,0 +1,40 @@
+{
+  "id": "cookie-cutters",
+  "title": "Cookie cutters: Bisections with fixed shapes",
+  "authors": [
+    "Patrick Schnider",
+    "Pablo Soberón"
+  ],
+  "year": 2025,
+  "sort_order": 18,
+  "status": "published",
+  "reference": "Adv. in Appl. Math. 171, Paper No. 102957, 15 pp.",
+  "type": "research",
+  "topics": [
+    "mass-partitions"
+  ],
+  "student_authors": [],
+  "featured": false,
+  "arxiv": "2502.17176",
+  "doi": "",
+  "pdf": "",
+  "summary": "",
+  "abstract": "",
+  "image": "/images/cookie-cutters.webp",
+  "image_alt": "Illustration accompanying Cookie cutters: Bisections with fixed shapes",
+  "resources": [],
+  "related_papers": [],
+  "agent_note": {
+    "attribution": "author",
+    "text": "",
+    "updated": ""
+  },
+  "methods": [],
+  "related_problems": [],
+  "draft": false,
+  "source_urls": [
+    "https://www.psoberon.com/full-list",
+    "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
+  ],
+  "imported_on": "2026-10-03"
+}

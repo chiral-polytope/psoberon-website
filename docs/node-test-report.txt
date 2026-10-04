@@ -1,0 +1,206 @@
+
+> psoberon-site@1.1.0 test
+> node --test tests/*.test.mjs
+
+TAP version 13
+# Subtest: portrait uses the attached full-aspect JPEG dimensions
+ok 1 - portrait uses the attached full-aspect JPEG dimensions
+  ---
+  duration_ms: 1.805832
+  type: 'test'
+  ...
+# Subtest: original background and illustration dimensions are read without cropping
+ok 2 - original background and illustration dimensions are read without cropping
+  ---
+  duration_ms: 1.065002
+  type: 'test'
+  ...
+# Subtest: shared images reject unsafe paths
+ok 3 - shared images reject unsafe paths
+  ---
+  duration_ms: 0.280456
+  type: 'test'
+  ...
+# Subtest: portrait markup includes the original aspect ratio and shared revision URL
+ok 4 - portrait markup includes the original aspect ratio and shared revision URL
+  ---
+  duration_ms: 0.859927
+  type: 'test'
+  ...
+# Subtest: restored personal records include all four institutions, sculpture explanation, and Hilbert quotation
+ok 5 - restored personal records include all four institutions, sculpture explanation, and Hilbert quotation
+  ---
+  duration_ms: 0.202391
+  type: 'test'
+  ...
+# Subtest: PDF check rejects HTML errors and truncated PDF responses
+ok 6 - PDF check rejects HTML errors and truncated PDF responses
+  ---
+  duration_ms: 0.192295
+  type: 'test'
+  ...
+# Subtest: recovery writes original bytes and resumes without overwriting
+ok 7 - recovery writes original bytes and resumes without overwriting
+  ---
+  duration_ms: 14.879323
+  type: 'test'
+  ...
+# Subtest: recovery reports HTTP and content failures instead of saving error pages
+ok 8 - recovery reports HTTP and content failures instead of saving error pages
+  ---
+  duration_ms: 0.723865
+  type: 'test'
+  ...
+# Subtest: recovery protects existing invalid files and rejects unsafe destinations
+ok 9 - recovery protects existing invalid files and rejects unsafe destinations
+  ---
+  duration_ms: 0.734011
+  type: 'test'
+  ...
+# Subtest: changing one portrait setting updates Home, About, and social images across generated pages
+ok 10 - changing one portrait setting updates Home, About, and social images across generated pages
+  ---
+  duration_ms: 298.507957
+  type: 'test'
+  ...
+# Subtest: all live records satisfy the schema
+ok 11 - all live records satisfy the schema
+  ---
+  duration_ms: 1.806454
+  type: 'test'
+  ...
+# Subtest: student flags always name actual authors
+ok 12 - student flags always name actual authors
+  ---
+  duration_ms: 0.298864
+  type: 'test'
+  ...
+# Subtest: diacritics produce stable coauthor slugs
+ok 13 - diacritics produce stable coauthor slugs
+  ---
+  duration_ms: 0.195901
+  type: 'test'
+  ...
+# Subtest: unknown topics are rejected
+ok 14 - unknown topics are rejected
+  ---
+  duration_ms: 1.283126
+  type: 'test'
+  ...
+# Subtest: invalid statuses are rejected
+ok 15 - invalid statuses are rejected
+  ---
+  duration_ms: 0.993056
+  type: 'test'
+  ...
+# Subtest: noninteger years are rejected
+ok 16 - noninteger years are rejected
+  ---
+  duration_ms: 0.917843
+  type: 'test'
+  ...
+# Subtest: invalid dates are rejected
+ok 17 - invalid dates are rejected
+  ---
+  duration_ms: 0.900438
+  type: 'test'
+  ...
+# Subtest: unknown student authors are rejected
+ok 18 - unknown student authors are rejected
+  ---
+  duration_ms: 1.397055
+  type: 'test'
+  ...
+# Subtest: duplicate IDs are rejected
+ok 19 - duplicate IDs are rejected
+  ---
+  duration_ms: 0.943461
+  type: 'test'
+  ...
+# Subtest: filenames match IDs
+ok 20 - filenames match IDs
+  ---
+  duration_ms: 0.947558
+  type: 'test'
+  ...
+# Subtest: script URLs and traversal paths are rejected
+ok 21 - script URLs and traversal paths are rejected
+  ---
+  duration_ms: 0.191705
+  type: 'test'
+  ...
+# Subtest: paper resources cannot inject script URLs
+ok 22 - paper resources cannot inject script URLs
+  ---
+  duration_ms: 0.826408
+  type: 'test'
+  ...
+# Subtest: YouTube IDs must be valid
+ok 23 - YouTube IDs must be valid
+  ---
+  duration_ms: 0.832186
+  type: 'test'
+  ...
+# Subtest: video references are validated
+ok 24 - video references are validated
+  ---
+  duration_ms: 0.998744
+  type: 'test'
+  ...
+# Subtest: public records do not expose import metadata or arbitrary internal fields
+ok 25 - public records do not expose import metadata or arbitrary internal fields
+  ---
+  duration_ms: 0.213367
+  type: 'test'
+  ...
+# Subtest: author context is explicitly attributed and empty context is omitted
+ok 26 - author context is explicitly attributed and empty context is omitted
+  ---
+  duration_ms: 0.230482
+  type: 'test'
+  ...
+# Subtest: relative links work for nested file previews
+ok 27 - relative links work for nested file previews
+  ---
+  duration_ms: 0.231814
+  type: 'test'
+  ...
+# Subtest: HTML and embedded JSON are escaped
+ok 28 - HTML and embedded JSON are escaped
+  ---
+  duration_ms: 0.105056
+  type: 'test'
+  ...
+# Subtest: Markdown never executes raw HTML
+ok 29 - Markdown never executes raw HTML
+  ---
+  duration_ms: 0.332594
+  type: 'test'
+  ...
+# Subtest: YouTube embeds load only on explicit interaction
+ok 30 - YouTube embeds load only on explicit interaction
+  ---
+  duration_ms: 0.148811
+  type: 'test'
+  ...
+# Subtest: direct video includes controls, captions and file fallback
+ok 31 - direct video includes controls, captions and file fallback
+  ---
+  duration_ms: 0.334607
+  type: 'test'
+  ...
+# Subtest: end-to-end: drafts excluded, context stays out of normal pages, videos auto-associate
+ok 32 - end-to-end: drafts excluded, context stays out of normal pages, videos auto-associate
+  ---
+  duration_ms: 272.06433
+  type: 'test'
+  ...
+1..32
+# tests 32
+# suites 0
+# pass 32
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 378.034128

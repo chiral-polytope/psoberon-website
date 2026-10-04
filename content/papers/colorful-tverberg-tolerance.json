@@ -1,0 +1,42 @@
+{
+  "id": "colorful-tverberg-tolerance",
+  "title": "Tolerance for colorful Tverberg partitions",
+  "authors": [
+    "Sherry Sarkar",
+    "Pablo Soberón"
+  ],
+  "year": 2022,
+  "sort_order": 30,
+  "status": "published",
+  "reference": "European J. Combin. 103, Paper No. 103527.",
+  "type": "research",
+  "topics": [
+    "tverberg"
+  ],
+  "student_authors": [
+    "Sherry Sarkar"
+  ],
+  "featured": false,
+  "arxiv": "2005.13495",
+  "doi": "",
+  "pdf": "",
+  "summary": "",
+  "abstract": "",
+  "image": "/images/colorful-tverberg-tolerance.webp",
+  "image_alt": "Illustration accompanying Tolerance for colorful Tverberg partitions",
+  "resources": [],
+  "related_papers": [],
+  "agent_note": {
+    "attribution": "author",
+    "text": "",
+    "updated": ""
+  },
+  "methods": [],
+  "related_problems": [],
+  "draft": false,
+  "source_urls": [
+    "https://www.psoberon.com/full-list",
+    "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
+  ],
+  "imported_on": "2026-10-03"
+}

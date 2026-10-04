@@ -1,0 +1,249 @@
+{
+  "started": "2026-10-04T02:02:45.627Z",
+  "updated": "2026-10-04T02:02:47.425Z",
+  "results": [
+    {
+      "id": "cv-full",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf",
+      "destination": "public/files/cv.pdf",
+      "status": "downloaded",
+      "attempt": 1,
+      "bytes": 244656,
+      "sha256": "bf794450112d650f1b6ff74bc7222cb25bc5a4489a497d6dbe354cb86071603f"
+    },
+    {
+      "id": "cv-short",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_d6a731a15987438c85b5f130639304d8.pdf",
+      "destination": "public/files/cv-short.pdf",
+      "status": "downloaded",
+      "attempt": 1,
+      "bytes": 127439,
+      "sha256": "bc5f0ff61c2c9fe2f4782993d8a1e83fa565d805bbb91973d88dac52e76425eb"
+    },
+    {
+      "id": "analysis-supplement",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_a37ff234a9cb41038c2c1b9c3300543c.pdf",
+      "destination": "public/files/analysis-supplement.pdf",
+      "status": "downloaded",
+      "attempt": 1,
+      "bytes": 221207,
+      "sha256": "ad1ccbe3862c024e9520bc1dcd6cdcd0ab020a2596d41bb47a17105e81b5f3ab"
+    },
+    {
+      "id": "slides-stiefel",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_ff0ea3a657dc42559bdd84207108a0e4.pdf",
+      "destination": "public/files/slides/stiefel-manifolds.pdf",
+      "status": "downloaded",
+      "attempt": 1,
+      "bytes": 3976017,
+      "sha256": "572bf70b00edc2544c36365e8171bfb8963806cce4ab4d2e71fb2eed428911e4"
+    },
+    {
+      "id": "slides-linear-tverberg",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_1a8573809ea2457a96260d8ff5374692.pdf",
+      "destination": "public/files/slides/linear-tverberg.pdf",
+      "status": "downloaded",
+      "attempt": 1,
+      "bytes": 1613643,
+      "sha256": "a070c89ed9f495daee748f12444ced1d0868907e14fb0d2af7a5d2e6f333ca9b"
+    },
+    {
+      "id": "fair-division-es",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_df71c1f840db4eec9f037857cca9b170.pdf",
+      "destination": "public/files/es/distribuciones-justas.pdf",
+      "status": "downloaded",
+      "attempt": 1,
+      "bytes": 395096,
+      "sha256": "37dbb54dbf65d9c27e26bf2f623846c417946316ec4d28d643561ea6547456c6"
+    },
+    {
+      "id": "putnam-1",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_3c12bc0eb68543df892fd7cdaa6aa74b.pdf",
+      "destination": "public/files/putnam/putnam-1.pdf",
+      "status": "downloaded",
+      "attempt": 1,
+      "bytes": 111935,
+      "sha256": "1697cb3ed50ddd9e7230d3125982de7e585d2190e6037e1c47994b0d87ac7888"
+    },
+    {
+      "id": "putnam-1-hints",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_92f4ea7c5e444a8abf074518895e2271.pdf",
+      "destination": "public/files/putnam/putnam-1-hints.pdf",
+      "status": "downloaded",
+      "attempt": 1,
+      "bytes": 133675,
+      "sha256": "0d6cba227f960e608be56950f9e911cfadbfe808711f60edfad0a36d7f1f8bf2"
+    },
+    {
+      "id": "putnam-2",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_50b7a68c519c462699df30891f61eca3.pdf",
+      "destination": "public/files/putnam/putnam-2.pdf",
+      "status": "downloaded",
+      "attempt": 1,
+      "bytes": 89894,
+      "sha256": "262c8f1c3859c96732878719974c2569609615f137ffd71f3c67a03459df581e"
+    },
+    {
+      "id": "putnam-2-hints",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_412947c97d754a309e1addc911906767.pdf",
+      "destination": "public/files/putnam/putnam-2-hints.pdf",
+      "status": "downloaded",
+      "attempt": 1,
+      "bytes": 114297,
+      "sha256": "4e0a08aab43cd245c71e590a4de27e4adaed98364f212dc31964fc1f84f62d2b"
+    },
+    {
+      "id": "putnam-3",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_4cb1469f3bd54619ad7267b0278d9d87.pdf",
+      "destination": "public/files/putnam/putnam-3.pdf",
+      "status": "downloaded",
+      "attempt": 1,
+      "bytes": 91536,
+      "sha256": "ef844c14f4a3041e0dc1f0d6e30b1651a6e1b821c37d5c87ba63ebf21ac04e46"
+    },
+    {
+      "id": "putnam-3-hints",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_d4617a0e7cc24699965d5ce76d139ef3.pdf",
+      "destination": "public/files/putnam/putnam-3-hints.pdf",
+      "status": "downloaded",
+      "attempt": 1,
+      "bytes": 126467,
+      "sha256": "9322f76ed42c969be13cf324293f544455e3174d1cab7156dc4679ae1080441a"
+    },
+    {
+      "id": "putnam-4",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_a183382333c442c6ac5664638a93bc59.pdf",
+      "destination": "public/files/putnam/putnam-4.pdf",
+      "status": "downloaded",
+      "attempt": 1,
+      "bytes": 92201,
+      "sha256": "cf6b7a6d3200e8899006ce480ffc5bf74039ff3122d3b687b9129195f4a3c12f"
+    },
+    {
+      "id": "putnam-4-hints",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_84eab54446d345d784876fc761f3c29e.pdf",
+      "destination": "public/files/putnam/putnam-4-hints.pdf",
+      "status": "downloaded",
+      "attempt": 1,
+      "bytes": 139346,
+      "sha256": "0d498bd01a712cf3e9cdb53d445c3adc7b2c237d3397ab774ed7c42cfd1d0a96"
+    },
+    {
+      "id": "putnam-5",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_eba633aa737b4114878d347db6b21c51.pdf",
+      "destination": "public/files/putnam/putnam-5.pdf",
+      "status": "downloaded",
+      "attempt": 1,
+      "bytes": 133375,
+      "sha256": "96d892870fb376175f85baf3e3fe26fb9038fabbe2bdf366a4b1a2234f9b4501"
+    },
+    {
+      "id": "putnam-5-hints",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_748ce45b011f48df8d78ef6fc99e5f78.pdf",
+      "destination": "public/files/putnam/putnam-5-hints.pdf",
+      "status": "downloaded",
+      "attempt": 1,
+      "bytes": 138514,
+      "sha256": "bdb93875b87617fab6d73d0ccb288c57d14415a263c64d07622af03bf3dcd9f6"
+    },
+    {
+      "id": "putnam-6",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_0216a65e139448b28e3bde9cba83489a.pdf",
+      "destination": "public/files/putnam/putnam-6.pdf",
+      "status": "downloaded",
+      "attempt": 1,
+      "bytes": 128991,
+      "sha256": "7363f11e0d4d8b5f97780b72a3be501634febdb95dc1bae9278de0a697b13c4e"
+    },
+    {
+      "id": "putnam-6-hints",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_07620f9290f04c7f832603ad106a1dfe.pdf",
+      "destination": "public/files/putnam/putnam-6-hints.pdf",
+      "status": "downloaded",
+      "attempt": 1,
+      "bytes": 131903,
+      "sha256": "313c156dc410db886e1b5fc9bb1ae52042b9da1d1d835bb9bc1d832cef7ebdce"
+    },
+    {
+      "id": "putnam-7",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_526b4ac13cbf4934bcc4c732825392d9.pdf",
+      "destination": "public/files/putnam/putnam-7.pdf",
+      "status": "downloaded",
+      "attempt": 1,
+      "bytes": 95050,
+      "sha256": "62373374b5d321e44057a29d00e88ab9328b1f5370e1256a7e145a6f8fbf91b7"
+    },
+    {
+      "id": "putnam-7-hints",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_d14444e44a5b48e190d88646460c01f9.pdf",
+      "destination": "public/files/putnam/putnam-7-hints.pdf",
+      "status": "downloaded",
+      "attempt": 1,
+      "bytes": 110584,
+      "sha256": "3b5e752c03cb29b0968733e55ca95e6f36107821512bd19d7cd43e56914047bc"
+    },
+    {
+      "id": "putnam-8",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_0852459e64fd40c7afe96ded75b231bd.pdf",
+      "destination": "public/files/putnam/putnam-8.pdf",
+      "status": "downloaded",
+      "attempt": 1,
+      "bytes": 105121,
+      "sha256": "c522c18f52f249ec1ad574a64dc9713504bbb2c4387fc2efdcc4b5961f9c7272"
+    },
+    {
+      "id": "putnam-8-hints",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_b994d7df807348448007b086f0a4e7f1.pdf",
+      "destination": "public/files/putnam/putnam-8-hints.pdf",
+      "status": "downloaded",
+      "attempt": 1,
+      "bytes": 126978,
+      "sha256": "496d3c3b80ecc45f85db0efc5201af49323d215baa188812e1d1255d5b498ebe"
+    },
+    {
+      "id": "putnam-9",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_c2a8a05c4a8241cdbc2c4c3f82db1686.pdf",
+      "destination": "public/files/putnam/putnam-9.pdf",
+      "status": "downloaded",
+      "attempt": 1,
+      "bytes": 86730,
+      "sha256": "bfdd0781b30cfc4079794235f4be9e99cc6abd47c763232a119a47fbfe4a9f0b"
+    },
+    {
+      "id": "panama-1",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_da180a8e042c44fd8e1a5eb42e77db06.pdf",
+      "destination": "public/files/es/panama-1.pdf",
+      "status": "downloaded",
+      "attempt": 1,
+      "bytes": 103954,
+      "sha256": "d71ca0700e201b1abe4b9dcfc3cc64ae5d7a395089579b420aa2ceaac3915689"
+    },
+    {
+      "id": "panama-2",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_785cfadb34b64836b5d5a7d451db2aaa.pdf",
+      "destination": "public/files/es/panama-2.pdf",
+      "status": "downloaded",
+      "attempt": 1,
+      "bytes": 98257,
+      "sha256": "124fea5ed2e291769254896bd9198c29701a81b48f6e6d2a2b3fb1029b458f9f"
+    },
+    {
+      "id": "panama-3",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_4759e386fb7a4020b47637c62af637b1.pdf",
+      "destination": "public/files/es/panama-3.pdf",
+      "status": "downloaded",
+      "attempt": 1,
+      "bytes": 78494,
+      "sha256": "8ee2b828720108d7ea631982b481340735e4ed89f45da7dd31832504199dc045"
+    },
+    {
+      "id": "geometry-notes",
+      "url": "https://www.psoberon.com/_files/ugd/fca340_c979e3fe622348a2bebdf354058f1ee0.pdf",
+      "destination": "public/files/combinatorial-geometry-undergraduates.pdf",
+      "status": "downloaded",
+      "attempt": 1,
+      "bytes": 2491115,
+      "sha256": "f6ad8fe63e021255c27f009d1666c5d682f03ae8005a7183622e785a67c5d9a8"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "helly-radon-flats",
+  "title": "Helly and Radon theorems for convex intersections containing k-flats",
+  "authors": [
+    "Sarah Ludwigson",
+    "Pablo Soberón"
+  ],
+  "year": 2026,
+  "sort_order": 3,
+  "status": "preprint",
+  "reference": "",
+  "type": "research",
+  "topics": [
+    "helly",
+    "tverberg",
+    "topological-combinatorics"
+  ],
+  "student_authors": [
+    "Sarah Ludwigson"
+  ],
+  "featured": false,
+  "arxiv": "2608.27189",
+  "doi": "",
+  "pdf": "",
+  "summary": "Colorful and fractional intersection theorems for convex families whose intersection contains an affine k-flat.",
+  "abstract": "We study versions of results in combinatorial geometry related to families of convex sets in ℝᵈ whose intersection contains a k-dimensional affine space. We prove generalizations of the colorful Radon theorem, the fractional Helly theorem, the colorful Helly theorem, and the selection-structure Helly theorem. When k=0, our arguments give new proofs of the corresponding versions for points.",
+  "image": "",
+  "image_alt": "",
+  "resources": [],
+  "related_papers": [],
+  "agent_note": {
+    "attribution": "author",
+    "text": "",
+    "updated": ""
+  },
+  "methods": [],
+  "related_problems": [],
+  "draft": false,
+  "source_urls": [
+    "https://www.psoberon.com/full-list",
+    "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
+  ],
+  "imported_on": "2026-10-03",
+  "summary_source": "https://arxiv.org/abs/2608.27189",
+  "abstract_source": "https://arxiv.org/abs/2608.27189",
+  "date": "2026-08-27"
+}

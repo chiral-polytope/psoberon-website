@@ -1,0 +1,24 @@
+[
+  {
+    "id": "problem-solving-combinatorics",
+    "title": "Problem-Solving Methods in Combinatorics",
+    "subtitle": "An Approach to Olympiad Problems",
+    "year": 2013,
+    "language": "English",
+    "publisher": "Birkhäuser",
+    "image": "/images/book-combinatorics.webp",
+    "description": "Combinatorial problem-solving techniques developed from mathematical olympiad training.",
+    "url": "https://link.springer.com/book/10.1007/978-3-0348-0597-1"
+  },
+  {
+    "id": "combinatoria-olimpiadas",
+    "title": "Combinatoria para Olimpiadas Internacionales",
+    "subtitle": "Cuadernos de Olimpiada",
+    "year": 2010,
+    "language": "Español",
+    "publisher": "Instituto de Matemáticas, UNAM",
+    "image": "/images/book-combinatoria.webp",
+    "description": "La versión en español, publicada en la colección Cuadernos de Olimpiada.",
+    "url": "https://www.ommenlinea.org/portfolio-items/combinatoria-para-olimpiadas-internacionales/"
+  }
+]
