@@ -21,7 +21,7 @@ export function build({quiet=false}={}){
  {
  const r='/index.html';
  const latestVideo=d.videos.find(v=>v.video);
- const body=`<section class="hero"><div class="hero-copy"><p class="eyebrow">Discrete geometry · Topological combinatorics</p><h1>Pablo<br>Soberón<span class="heading-dot">.</span></h1><p class="role">${esc(d.site.position)}<br>Baruch College & The Graduate Center, CUNY</p><p class="hero-intro">${esc(d.site.intro)}</p><div class="actions">${a(r,'/publications/','Explore publications →','button')}${cv(r)}</div><div class="social-links">${a(r,d.site.scholar,'Google Scholar ↗')}${a(r,d.site.orcid,'ORCID ↗')}${a(r,'mailto:'+d.site.email,'Email ↗')}</div></div><figure class="portrait">${sharedImage(r,d.site.portrait,d.site.name,{priority:true})}<figcaption>Mathematics in New York City</figcaption></figure></section>
+ const body=`<section class="hero"><div class="hero-copy"><p class="eyebrow">Discrete geometry · Topological combinatorics</p><h1>Pablo<br>Soberón<span class="heading-dot">.</span></h1><p class="role">${esc(d.site.position)}<br>Baruch College & The Graduate Center, CUNY</p><p class="hero-intro">${esc(d.site.intro)}</p><div class="actions">${a(r,'/publications/','Explore publications →','button')}${cv(r)}</div><div class="social-links">${a(r,d.site.scholar,'Google Scholar ↗')}${a(r,d.site.orcid,'ORCID ↗')}${a(r,'mailto:'+d.site.email,'Email ↗')}</div></div><figure class="portrait">${sharedImage(r,d.site.portrait,d.site.name,{priority:true})}</figure></section>
  <section class="section symmetry-feature symmetry-image-only">
   <figure>${sharedImage(r,d.site.home_artwork.image,d.site.home_artwork.alt)}</figure>
 </section>
