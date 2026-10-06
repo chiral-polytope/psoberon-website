@@ -10,8 +10,8 @@
   "reference": "Proc. Amer. Math. Soc. 154, no. 7, 3085–3097.",
   "type": "research",
   "topics": [
-    "fair-division",
-    "topological-combinatorics"
+    "topological-combinatorics",
+    "fair-division"
   ],
   "student_authors": [],
   "featured": false,
@@ -20,7 +20,7 @@
   "pdf": "",
   "summary": "",
   "abstract": "",
-  "image": "/images/fair-distribution-bundles.webp",
+  "image": "/images/tverberg-cores.webp",
   "image_alt": "Illustration accompanying Fair distribution of bundles",
   "resources": [],
   "related_papers": [],
@@ -36,5 +36,6 @@
     "https://www.psoberon.com/full-list",
     "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
   ],
-  "imported_on": "2026-10-03"
+  "imported_on": "2026-10-03",
+  "date": ""
 }

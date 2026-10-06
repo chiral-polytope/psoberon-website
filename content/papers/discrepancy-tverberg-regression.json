@@ -7,7 +7,7 @@
   ],
   "year": 2026,
   "sort_order": 2,
-  "status": "submitted",
+  "status": "preprint",
   "reference": "",
   "type": "research",
   "topics": [
@@ -23,7 +23,7 @@
   "pdf": "",
   "summary": "Discrepancy-theoretic bounds for Tverberg partitions with tolerance, for point sets and for regression hulls of hyperplanes.",
   "abstract": "",
-  "image": "",
+  "image": "/images/colorful-tverberg-tolerance.webp",
   "image_alt": "",
   "resources": [],
   "related_papers": [],

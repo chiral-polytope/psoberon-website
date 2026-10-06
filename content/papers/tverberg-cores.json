@@ -20,7 +20,7 @@
   "pdf": "",
   "summary": "Topological Tverberg cores, vertex-deletion tolerance, and consequences for Kalai’s cascade conjecture.",
   "abstract": "We study topological analogues of Kalai's cascade conjecture. Given a continuous map from an n-simplex to ℝᵈ, let Tᵣ(f) be the set of points contained in the images of r pairwise disjoint faces. We prove that if r is a prime power and dim Tᵣ(f) ≤ k, then there exists a point that remains an r-Tverberg point after any t vertices are deleted, provided n = (r−1)(d+1) + t(k+1).\n\nFor t=1, this gives a topological analogue of a standard consequence of Kalai's cascade conjecture. We also confirm the cascade conjecture for finite point sets whose Radon set is 0-dimensional.",
-  "image": "/images/tverberg-cores.webp",
+  "image": "/images/mass-assignments-spheres-wedges.webp",
   "image_alt": "Illustration accompanying Tverberg cores and Kalai’s cascade conjecture",
   "resources": [],
   "related_papers": [],

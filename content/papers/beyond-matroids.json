@@ -10,9 +10,9 @@
   "reference": "",
   "type": "research",
   "topics": [
-    "topological-combinatorics",
+    "tverberg",
     "helly",
-    "tverberg"
+    "topological-combinatorics"
   ],
   "student_authors": [],
   "featured": true,
@@ -21,7 +21,7 @@
   "pdf": "",
   "summary": "Selection structures extend the role of color classes and matroids in KKM theorems and discrete geometry.",
   "abstract": "",
-  "image": "/images/beyond-matroids.webp",
+  "image": "/images/fair-distribution-bundles.webp",
   "image_alt": "Illustration accompanying KKM theorems and discrete geometry beyond matroids",
   "resources": [],
   "related_papers": [],
