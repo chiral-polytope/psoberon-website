@@ -22,7 +22,7 @@
   "pdf": "",
   "summary": "",
   "abstract": "",
-  "image": "/images/colorful-hyperplane-counterexamples.webp",
+  "image": "/images/tverberg-partition-graphs.webp",
   "image_alt": "Illustration accompanying Counterexamples to the Colorful Tverberg Conjecture for Hyperplanes",
   "resources": [],
   "related_papers": [],
@@ -38,5 +38,6 @@
     "https://www.psoberon.com/full-list",
     "https://www.psoberon.com/_files/ugd/fca340_5a43d1671b0d488ab14ef5d355d40069.pdf"
   ],
-  "imported_on": "2026-10-03"
+  "imported_on": "2026-10-03",
+  "date": ""
 }
