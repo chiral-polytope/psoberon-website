@@ -5,10 +5,10 @@
     "Deron Lessure",
     "Pablo Soberón"
   ],
-  "year": 2025,
+  "year": 2027,
   "sort_order": 13,
-  "status": "accepted",
-  "reference": "Accepted in European Journal of Combinatorics",
+  "status": "published",
+  "reference": "European J. Combinatorics 139 104456",
   "type": "research",
   "topics": [
     "mass-partitions"
@@ -18,11 +18,11 @@
   ],
   "featured": false,
   "arxiv": "2507.06919",
-  "doi": "",
+  "doi": "10.1016/j.ejc.2026.104456",
   "pdf": "",
   "summary": "",
   "abstract": "",
-  "image": "/images/yao-yao-central-transversals.webp",
+  "image": "/images/mass-assignments-spheres-wedges.webp",
   "image_alt": "Illustration accompanying Partitions of mass assignments with spheres and wedges",
   "resources": [],
   "related_papers": [],
