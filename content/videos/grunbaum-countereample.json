@@ -1,0 +1,22 @@
+{
+  "id": "grunbaum-countereample",
+  "title": "Four hyperplanes do not always equipartition a mass in R^4",
+  "kind": "talk",
+  "year": 2026,
+  "date": "2026-11-17",
+  "event": "NY Geometry Seminar",
+  "papers": [
+    "four-hyperplanes"
+  ],
+  "topics": [
+    "mass-partitions",
+    "fair-division"
+  ],
+  "video": {
+    "type": "youtube",
+    "id": "g94X2VfRuMo"
+  },
+  "slides": "",
+  "description": "",
+  "draft": true
+}
