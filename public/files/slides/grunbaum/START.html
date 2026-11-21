@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="color-scheme" content="dark">
+<title>Grünbaum · Click-to-advance presentation</title>
+<link rel="stylesheet" href="player.css">
+<script defer src="manifest.js"></script>
+<script defer src="player.js"></script>
+</head>
+<body>
+<main id="stage" aria-label="Presentation. Click to advance; press question mark for keyboard help." tabindex="0">
+  <video id="video" muted playsinline preload="auto" disablepictureinpicture aria-label="Animated mathematics presentation"></video>
+  <div id="blackout" hidden></div>
+  <div id="startup" hidden><button id="startButton" type="button">Start presentation</button><p>Click or press Space. No sound.</p></div>
+</main>
+<header id="heading" class="chrome"><span id="section">Grünbaum</span><span id="position"></span></header>
+<nav id="controls" class="chrome" aria-label="Presentation controls">
+  <button id="previous" title="Previous build (←)">← <span>Previous</span></button>
+  <button id="replay" title="Replay this build (R)">↺ <span>Replay</span></button>
+  <button id="pause" title="Pause or resume motion (P)">Ⅱ <span>Pause</span></button>
+  <span id="status" role="status" aria-live="polite">Loading…</span>
+  <button id="jump" title="Jump to a build (G)">☷ <span>Contents</span></button>
+  <button id="helpButton" title="Keyboard help (?)">?</button>
+  <button id="fullscreen" title="Full screen (F)">⛶ <span>Full screen</span></button>
+  <button id="next" title="Next build (→ / Space)"><span>Next</span> →</button>
+</nav>
+<dialog id="contents"><div class="dialog-heading"><h1>Contents</h1><button data-close aria-label="Close contents">×</button></div><label for="search">Find a build</label><input id="search" type="search" placeholder="Search chapter or build…"><div id="buildList"></div></dialog>
+<dialog id="help"><div class="dialog-heading"><h1>Presenting</h1><button data-close aria-label="Close help">×</button></div>
+<p>Each click plays one build, then waits until you advance. The title and closing gallery loop while you speak.</p>
+<dl><dt>Click, Space, →, Page Down</dt><dd>Next build. During an animation, finish it first.</dd><dt>←, Page Up, Backspace</dt><dd>Previous build, at its completed state.</dd><dt>R</dt><dd>Replay the current build.</dd><dt>P</dt><dd>Pause or resume motion.</dd><dt>F</dt><dd>Enter or leave full screen.</dd><dt>G</dt><dd>Contents and build search.</dd><dt>Home / End</dt><dd>Title / Thank you gallery.</dd><dt>B</dt><dd>Black screen; press B again to return.</dd><dt>? / H</dt><dd>This help.</dd></dl>
+<p>Controls disappear when the pointer is still. Move it near the bottom to bring them back. Sound is intentionally off.</p></dialog>
+<div id="error" role="alert" hidden></div>
+<noscript>This presentation needs JavaScript enabled. Keep START.html together with player.js, player.css, manifest.js and the assets folder.</noscript>
+</body>
+</html>
